@@ -1,0 +1,1001 @@
+month,warehouse,sku,item_name,category,unit,opening_stock,received_qty,issued_qty,closing_stock,reorder_level,needs_reorder,unit_cost,stock_value,supplier
+2026-02-01,WH-Chennai,SKU-1001,A4 Paper Ream,Stationery,pcs,320,0,152,168,123,FALSE,276.76,46495.88,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,83,0,36,47,53,TRUE,1274.63,59907.46,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1003,Ball Pen Box,Stationery,pcs,394,486,208,672,176,FALSE,98.38,66110.37,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,146,148,22,272,96,FALSE,412.63,112236.34,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1005,Stapler,Stationery,pcs,160,322,122,360,136,FALSE,128.44,46238.8,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1006,Stapler (Bulk),Stationery,pcs,512,585,209,888,159,FALSE,523.72,465065.6,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1007,Box File,Stationery,pcs,193,384,131,446,135,FALSE,67.93,30297.0,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1008,Box File (Bulk),Stationery,pcs,269,0,234,35,175,TRUE,365.55,12794.27,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1009,Whiteboard Marker Set,Stationery,pcs,203,0,76,127,120,FALSE,152.84,19410.76,Unity Traders
+2026-02-01,WH-Chennai,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,20,51,15,56,25,FALSE,768.39,43030.12,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1011,Sticky Notes Pack,Stationery,pcs,274,247,115,406,153,FALSE,61.75,25070.84,Unity Traders
+2026-02-01,WH-Chennai,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,137,398,77,458,156,FALSE,260.63,119369.51,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1013,Notebook 200 pages,Stationery,pcs,339,378,199,518,159,FALSE,54.71,28337.64,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,308,0,143,165,135,FALSE,244.44,40332.28,Unity Traders
+2026-02-01,WH-Chennai,SKU-1015,Calculator,Stationery,pcs,239,0,192,47,157,TRUE,415.86,19545.37,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1016,Calculator (Bulk),Stationery,pcs,112,0,38,74,48,FALSE,2178.55,161212.44,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1017,Glue Stick,Stationery,pcs,104,0,51,53,50,FALSE,26.12,1384.52,Unity Traders
+2026-02-01,WH-Chennai,SKU-1018,Glue Stick (Bulk),Stationery,pcs,337,0,232,105,251,TRUE,105.81,11110.27,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1019,Envelope Pack,Stationery,pcs,74,150,40,184,52,FALSE,72.23,13289.65,Unity Traders
+2026-02-01,WH-Chennai,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,367,0,103,264,123,FALSE,371.93,98188.79,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1021,LED Bulb 9W,Electrical,pcs,432,519,123,828,140,FALSE,94.83,78516.5,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,375,0,174,201,233,TRUE,431.8,86791.19,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1023,LED Tube Light 20W,Electrical,pcs,152,0,57,95,44,FALSE,238.93,22698.45,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,210,378,185,403,198,FALSE,1132.58,456430.39,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1025,Extension Board,Electrical,pcs,55,0,16,39,23,FALSE,365.09,14238.57,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1026,Extension Board (Bulk),Electrical,pcs,553,0,215,338,193,FALSE,1785.17,603387.0,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1027,Ceiling Fan,Electrical,pcs,362,496,150,708,169,FALSE,1831.69,1296836.77,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,315,0,91,224,148,FALSE,8178.76,1832041.61,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1029,Modular Switch,Electrical,pcs,352,0,107,245,174,FALSE,49.03,12011.94,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1030,Modular Switch (Bulk),Electrical,pcs,133,0,54,79,54,FALSE,192.8,15231.37,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1031,Copper Wire 90m,Electrical,pcs,50,106,44,112,43,FALSE,1633.67,182970.62,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1033,MCB 32A,Electrical,pcs,200,291,84,407,137,FALSE,270.76,110200.01,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1034,MCB 32A (Bulk),Electrical,pcs,377,0,132,245,177,FALSE,1297.4,317862.88,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1035,Emergency Light,Electrical,pcs,409,0,152,257,218,FALSE,760.71,195503.39,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1036,Emergency Light (Bulk),Electrical,pcs,234,0,97,137,120,FALSE,3483.02,477173.32,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1037,Wall Socket,Electrical,pcs,245,0,158,87,156,TRUE,57.69,5019.15,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1039,Table Lamp,Electrical,pcs,265,0,179,86,201,TRUE,480.93,41360.22,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1040,Table Lamp (Bulk),Electrical,pcs,450,0,173,277,201,FALSE,2392.23,662646.57,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1041,Basmati Rice,Grocery,kg,125,0,125,0,99,TRUE,93.71,0.0,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1042,Basmati Rice (Bulk),Grocery,kg,95,248,87,256,79,FALSE,477.37,122206.98,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1043,Toor Dal,Grocery,kg,540,499,151,888,224,FALSE,153.99,136741.37,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1044,Toor Dal (Bulk),Grocery,kg,165,389,187,367,151,FALSE,677.01,248461.73,Unity Traders
+2026-02-01,WH-Chennai,SKU-1045,Sugar,Grocery,kg,315,318,108,525,139,FALSE,41.2,21628.48,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1046,Sugar (Bulk),Grocery,kg,267,444,111,600,167,FALSE,185.85,111512.1,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1047,Wheat Atta,Grocery,kg,202,0,77,125,89,FALSE,40.72,5089.85,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1048,Wheat Atta (Bulk),Grocery,kg,130,0,90,40,106,TRUE,190.36,7614.56,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1049,Sunflower Oil (L),Grocery,kg,347,0,179,168,215,TRUE,129.99,21838.65,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,146,0,60,86,120,TRUE,622.81,53561.91,Unity Traders
+2026-02-01,WH-Chennai,SKU-1051,Tea Leaves,Grocery,kg,453,0,263,190,274,TRUE,412.71,78415.43,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1052,Tea Leaves (Bulk),Grocery,kg,134,0,59,75,56,FALSE,1980.46,148534.35,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1053,Salt,Grocery,kg,358,0,276,82,160,TRUE,23.88,1958.3,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1054,Salt (Bulk),Grocery,kg,130,282,97,315,135,FALSE,110.78,34894.59,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1055,Poha,Grocery,kg,184,0,119,65,135,TRUE,60.61,3939.65,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1056,Poha (Bulk),Grocery,kg,382,0,164,218,110,FALSE,298.79,65137.03,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1057,Chana Dal,Grocery,kg,291,0,87,204,96,FALSE,89.97,18354.03,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1058,Chana Dal (Bulk),Grocery,kg,250,0,130,120,187,TRUE,441.72,53005.82,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1059,Jaggery,Grocery,kg,454,0,289,165,209,TRUE,63.49,10475.29,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1060,Jaggery (Bulk),Grocery,kg,562,533,153,942,235,FALSE,320.77,302164.22,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1061,Hammer,Hardware,pcs,131,0,91,40,96,TRUE,282.58,11303.24,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1062,Hammer (Bulk),Hardware,pcs,186,238,67,357,163,FALSE,1147.81,409769.8,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1063,Screwdriver Set,Hardware,pcs,267,0,133,134,202,TRUE,297.51,39866.35,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,263,0,110,153,130,FALSE,1484.79,227172.23,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1065,Wall Plug Pack,Hardware,pcs,149,378,105,422,111,FALSE,46.78,19740.1,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,337,0,118,219,127,FALSE,188.11,41195.43,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1067,Padlock,Hardware,pcs,439,0,88,351,216,FALSE,205.22,72030.57,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1068,Padlock (Bulk),Hardware,pcs,447,332,224,555,207,FALSE,965.1,535629.11,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1069,Measuring Tape 5m,Hardware,pcs,49,64,9,104,26,FALSE,150.35,15636.57,Unity Traders
+2026-02-01,WH-Chennai,SKU-1071,Spanner Set,Hardware,pcs,398,0,243,155,215,TRUE,644.4,99882.1,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1072,Spanner Set (Bulk),Hardware,pcs,376,0,142,234,177,FALSE,2783.31,651294.07,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1073,Drill Bit Set,Hardware,pcs,186,267,68,385,164,FALSE,498.5,191922.36,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,400,0,157,243,206,FALSE,2366.69,575104.58,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1075,Wood Screws Pack,Hardware,pcs,226,0,62,164,94,FALSE,73.63,12075.59,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,220,0,71,149,159,TRUE,330.45,49236.57,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1077,Door Hinge,Hardware,pcs,508,0,174,334,305,FALSE,54.27,18127.41,Unity Traders
+2026-02-01,WH-Chennai,SKU-1078,Door Hinge (Bulk),Hardware,pcs,96,78,28,146,43,FALSE,250.15,36521.92,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1080,Paint Brush (Bulk),Hardware,pcs,171,324,89,406,225,FALSE,414.16,168148.32,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,97,0,87,10,79,TRUE,120.75,1207.48,Lotus Agencies
+2026-02-01,WH-Chennai,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,175,362,144,393,177,FALSE,505.52,198668.62,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,286,0,205,81,238,TRUE,102.84,8330.34,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,66,0,44,22,49,TRUE,415.62,9143.54,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1085,Phenyl 1L,Cleaning,pcs,47,0,9,38,23,FALSE,72.49,2754.49,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1087,Broom,Cleaning,pcs,80,153,52,181,52,FALSE,111.93,20258.71,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1088,Broom (Bulk),Cleaning,pcs,219,472,110,581,160,FALSE,540.94,314288.9,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1089,Mop with Bucket,Cleaning,pcs,109,0,70,39,59,TRUE,900.07,35102.69,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,394,0,144,250,159,FALSE,4191.03,1047757.92,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1091,Garbage Bags Roll,Cleaning,pcs,333,0,218,115,271,TRUE,86.12,9903.89,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1093,Hand Wash 250ml,Cleaning,pcs,170,522,172,520,205,FALSE,76.6,39829.97,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,183,314,93,404,167,FALSE,365.62,147711.02,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,316,0,154,162,145,FALSE,466.41,75558.54,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1099,Dustbin 20L,Cleaning,pcs,356,0,119,237,200,FALSE,363.01,86032.64,Unity Traders
+2026-02-01,WH-Chennai,SKU-1100,Dustbin 20L (Bulk),Cleaning,pcs,329,0,154,175,205,TRUE,1504.23,263240.99,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1101,Corrugated Box Small,Packaging,pcs,259,308,125,442,127,FALSE,16.52,7303.82,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,102,184,55,231,99,FALSE,76.71,17719.68,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1103,Corrugated Box Large,Packaging,pcs,258,0,146,112,185,TRUE,45.47,5093.01,Metro Wholesale
+2026-02-01,WH-Chennai,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,490,0,227,263,181,FALSE,192.5,50627.13,Unity Traders
+2026-02-01,WH-Chennai,SKU-1105,Bubble Wrap Roll,Packaging,pcs,302,0,143,159,238,TRUE,350.75,55769.71,Sunrise Distributors
+2026-02-01,WH-Chennai,SKU-1107,Packing Tape,Packaging,pcs,622,0,222,400,190,FALSE,48.24,19296.51,Unity Traders
+2026-02-01,WH-Chennai,SKU-1108,Packing Tape (Bulk),Packaging,pcs,479,0,125,354,242,FALSE,219.61,77741.91,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1109,Courier Bag Pack,Packaging,pcs,92,247,79,260,121,FALSE,161.17,41904.28,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,253,0,119,134,137,TRUE,2432.45,325948.78,Greenleaf Supplies
+2026-02-01,WH-Chennai,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,223,581,315,489,267,FALSE,958.13,468523.4,Apex Trading Co.
+2026-02-01,WH-Chennai,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,42,0,25,17,28,TRUE,174.37,2964.31,Northstar Enterprises
+2026-02-01,WH-Chennai,SKU-1119,Twine Roll,Packaging,pcs,159,0,78,81,50,FALSE,64.91,5257.92,Prime Packaging Works
+2026-02-01,WH-Chennai,SKU-1120,Twine Roll (Bulk),Packaging,pcs,98,248,93,253,83,FALSE,300.63,76060.31,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1001,A4 Paper Ream,Stationery,pcs,92,161,91,162,88,FALSE,280.14,45382.27,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,100,0,42,58,47,FALSE,1254.16,72741.23,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1003,Ball Pen Box,Stationery,pcs,519,0,227,292,228,FALSE,83.78,24464.17,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,197,0,87,110,86,FALSE,406.39,44703.12,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1005,Stapler,Stationery,pcs,365,0,290,75,172,TRUE,118.64,8898.09,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1006,Stapler (Bulk),Stationery,pcs,251,597,224,624,293,FALSE,572.5,357239.44,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1009,Whiteboard Marker Set,Stationery,pcs,217,288,191,314,187,FALSE,156.74,49216.51,Unity Traders
+2026-02-01,WH-Delhi,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,145,0,51,94,47,FALSE,729.33,68557.43,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1011,Sticky Notes Pack,Stationery,pcs,331,354,159,526,188,FALSE,54.26,28538.81,Unity Traders
+2026-02-01,WH-Delhi,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,220,0,220,0,171,TRUE,279.56,0.0,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1013,Notebook 200 pages,Stationery,pcs,41,63,25,79,38,FALSE,51.88,4098.16,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,250,0,87,163,199,TRUE,273.27,44542.5,Unity Traders
+2026-02-01,WH-Delhi,SKU-1016,Calculator (Bulk),Stationery,pcs,20,44,21,43,21,FALSE,1916.82,82423.12,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1017,Glue Stick,Stationery,pcs,154,0,52,102,61,FALSE,22.63,2308.15,Unity Traders
+2026-02-01,WH-Delhi,SKU-1018,Glue Stick (Bulk),Stationery,pcs,26,46,22,50,24,FALSE,110.95,5547.34,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1019,Envelope Pack,Stationery,pcs,125,0,46,79,42,FALSE,80.42,6352.97,Unity Traders
+2026-02-01,WH-Delhi,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,429,0,238,191,190,FALSE,368.97,70474.09,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1021,LED Bulb 9W,Electrical,pcs,107,0,32,75,43,FALSE,86.32,6474.3,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,358,0,140,218,246,TRUE,433.33,94466.58,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,416,0,98,318,179,FALSE,1082.28,344164.11,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1025,Extension Board,Electrical,pcs,438,0,134,304,177,FALSE,347.59,105665.93,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1026,Extension Board (Bulk),Electrical,pcs,35,97,42,90,38,FALSE,1669.35,150241.1,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,238,0,54,184,171,FALSE,9351.86,1720741.59,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1029,Modular Switch,Electrical,pcs,273,359,186,446,138,FALSE,41.39,18461.1,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1030,Modular Switch (Bulk),Electrical,pcs,365,0,168,197,221,TRUE,218.14,42972.61,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1031,Copper Wire 90m,Electrical,pcs,309,507,214,602,154,FALSE,1560.4,939362.53,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,154,0,106,48,94,TRUE,6975.34,334816.33,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1033,MCB 32A,Electrical,pcs,179,0,148,31,129,TRUE,241.94,7500.05,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1034,MCB 32A (Bulk),Electrical,pcs,543,0,166,377,172,FALSE,1098.7,414210.14,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1035,Emergency Light,Electrical,pcs,91,82,37,136,45,FALSE,707.89,96273.3,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1036,Emergency Light (Bulk),Electrical,pcs,224,348,125,447,161,FALSE,2976.72,1330592.48,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1037,Wall Socket,Electrical,pcs,218,0,30,188,110,FALSE,64.42,12110.42,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1038,Wall Socket (Bulk),Electrical,pcs,358,0,200,158,240,TRUE,267.81,42314.12,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1039,Table Lamp,Electrical,pcs,308,0,156,152,126,FALSE,491.32,74680.86,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1041,Basmati Rice,Grocery,kg,64,0,53,11,51,TRUE,99.99,1099.88,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1042,Basmati Rice (Bulk),Grocery,kg,356,0,161,195,181,FALSE,478.48,93302.7,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1043,Toor Dal,Grocery,kg,417,412,130,699,224,FALSE,126.74,88587.84,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1045,Sugar,Grocery,kg,315,687,264,738,283,FALSE,41.19,30396.49,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1046,Sugar (Bulk),Grocery,kg,267,0,124,143,161,TRUE,182.41,26084.22,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1049,Sunflower Oil (L),Grocery,kg,348,0,156,192,231,TRUE,125.33,24063.48,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,360,0,154,206,118,FALSE,585.62,120637.62,Unity Traders
+2026-02-01,WH-Delhi,SKU-1051,Tea Leaves,Grocery,kg,175,0,110,65,104,TRUE,438.61,28509.91,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1052,Tea Leaves (Bulk),Grocery,kg,203,537,169,571,208,FALSE,1759.13,1004462.12,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1053,Salt,Grocery,kg,110,0,38,72,58,FALSE,21.0,1511.8,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1054,Salt (Bulk),Grocery,kg,283,0,162,121,171,TRUE,96.61,11689.68,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1055,Poha,Grocery,kg,315,0,149,166,149,FALSE,57.4,9528.23,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1057,Chana Dal,Grocery,kg,359,0,133,226,175,FALSE,81.82,18490.76,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1058,Chana Dal (Bulk),Grocery,kg,97,216,86,227,117,FALSE,397.56,90245.56,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1059,Jaggery,Grocery,kg,88,190,53,225,52,FALSE,62.77,14122.26,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1060,Jaggery (Bulk),Grocery,kg,22,49,20,51,21,FALSE,291.84,14883.66,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1061,Hammer,Hardware,pcs,424,0,192,232,183,FALSE,275.92,64014.0,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1062,Hammer (Bulk),Hardware,pcs,32,79,43,68,41,FALSE,1080.88,73500.04,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1063,Screwdriver Set,Hardware,pcs,438,0,209,229,286,TRUE,324.7,74355.75,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,197,501,191,507,175,FALSE,1330.94,674786.67,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1065,Wall Plug Pack,Hardware,pcs,182,205,29,358,111,FALSE,47.99,17179.79,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,547,0,168,379,175,FALSE,196.37,74425.48,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1067,Padlock,Hardware,pcs,243,0,99,144,158,TRUE,202.03,29092.54,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1068,Padlock (Bulk),Hardware,pcs,113,0,97,16,87,TRUE,968.03,15488.41,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1069,Measuring Tape 5m,Hardware,pcs,107,0,56,51,44,FALSE,135.78,6924.91,Unity Traders
+2026-02-01,WH-Delhi,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,431,0,206,225,225,FALSE,610.03,137257.07,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1071,Spanner Set,Hardware,pcs,99,0,38,61,42,FALSE,683.83,41713.51,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1072,Spanner Set (Bulk),Hardware,pcs,380,0,102,278,138,FALSE,2986.48,830241.99,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1073,Drill Bit Set,Hardware,pcs,321,0,245,76,225,TRUE,520.72,39574.63,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,293,0,120,173,162,FALSE,2368.85,409811.3,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1075,Wood Screws Pack,Hardware,pcs,163,0,163,0,130,TRUE,69.19,0.0,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,85,183,76,192,76,FALSE,322.47,61914.72,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1078,Door Hinge (Bulk),Hardware,pcs,87,265,96,256,87,FALSE,269.78,69064.67,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1079,Paint Brush,Hardware,pcs,83,0,33,50,43,FALSE,86.96,4347.76,Unity Traders
+2026-02-01,WH-Delhi,SKU-1080,Paint Brush (Bulk),Hardware,pcs,250,0,155,95,133,TRUE,413.82,39312.91,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,520,0,136,384,221,FALSE,123.64,47479.33,Lotus Agencies
+2026-02-01,WH-Delhi,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,105,212,96,221,91,FALSE,503.63,111302.42,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,61,123,45,139,51,FALSE,99.07,13771.01,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,177,0,138,39,109,TRUE,317.99,12401.67,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1087,Broom,Cleaning,pcs,138,264,117,285,122,FALSE,107.2,30552.78,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1088,Broom (Bulk),Cleaning,pcs,122,0,48,74,79,TRUE,515.91,38177.05,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1089,Mop with Bucket,Cleaning,pcs,200,426,182,444,221,FALSE,872.96,387592.52,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,377,0,150,227,153,FALSE,4506.84,1023052.0,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1091,Garbage Bags Roll,Cleaning,pcs,334,501,187,648,283,FALSE,86.41,55991.46,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,129,0,64,65,45,FALSE,406.52,26423.87,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1093,Hand Wash 250ml,Cleaning,pcs,274,0,71,203,115,FALSE,72.14,14645.18,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,242,0,56,186,124,FALSE,356.74,66353.27,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,438,0,188,250,243,FALSE,457.8,114450.98,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1099,Dustbin 20L,Cleaning,pcs,254,0,82,172,161,FALSE,330.66,56872.94,Unity Traders
+2026-02-01,WH-Delhi,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,150,0,60,90,49,FALSE,82.57,7431.54,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1103,Corrugated Box Large,Packaging,pcs,70,0,68,2,55,TRUE,44.89,89.79,Metro Wholesale
+2026-02-01,WH-Delhi,SKU-1107,Packing Tape,Packaging,pcs,95,0,51,44,47,TRUE,48.45,2131.94,Unity Traders
+2026-02-01,WH-Delhi,SKU-1108,Packing Tape (Bulk),Packaging,pcs,57,0,19,38,23,FALSE,191.73,7285.57,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,245,0,90,155,84,FALSE,775.91,120265.37,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1111,Stretch Film Roll,Packaging,pcs,339,0,188,151,165,TRUE,510.73,77120.12,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,290,0,147,143,148,TRUE,2289.11,327342.66,Greenleaf Supplies
+2026-02-01,WH-Delhi,SKU-1113,Kraft Paper Roll,Packaging,pcs,348,0,77,271,187,FALSE,288.57,78201.95,Sunrise Distributors
+2026-02-01,WH-Delhi,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,482,0,208,274,203,FALSE,985.25,269958.78,Apex Trading Co.
+2026-02-01,WH-Delhi,SKU-1117,Thermocol Sheet,Packaging,pcs,402,0,191,211,311,TRUE,33.47,7062.68,Prime Packaging Works
+2026-02-01,WH-Delhi,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,273,0,84,189,109,FALSE,171.2,32357.54,Northstar Enterprises
+2026-02-01,WH-Delhi,SKU-1120,Twine Roll (Bulk),Packaging,pcs,268,0,220,48,160,TRUE,283.79,13622.07,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1001,A4 Paper Ream,Stationery,pcs,234,436,147,523,230,FALSE,277.99,145386.89,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,478,0,174,304,189,FALSE,1141.65,347062.11,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1003,Ball Pen Box,Stationery,pcs,376,0,162,214,181,FALSE,98.04,20979.58,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1005,Stapler,Stationery,pcs,102,0,74,28,67,TRUE,108.64,3041.92,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1006,Stapler (Bulk),Stationery,pcs,38,0,18,20,29,TRUE,606.6,12131.91,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1007,Box File,Stationery,pcs,262,291,92,461,75,FALSE,80.09,36920.4,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1009,Whiteboard Marker Set,Stationery,pcs,189,440,143,486,200,FALSE,153.18,74445.55,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,236,372,183,425,238,FALSE,766.25,325658.34,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,123,0,123,0,85,TRUE,262.53,0.0,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1013,Notebook 200 pages,Stationery,pcs,456,0,155,301,220,FALSE,55.31,16646.95,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1015,Calculator,Stationery,pcs,60,0,43,17,37,TRUE,409.3,6958.06,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1016,Calculator (Bulk),Stationery,pcs,193,0,91,102,137,TRUE,1908.9,194707.31,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1017,Glue Stick,Stationery,pcs,207,600,214,593,244,FALSE,25.08,14870.59,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1018,Glue Stick (Bulk),Stationery,pcs,120,0,51,69,58,FALSE,117.64,8117.2,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1019,Envelope Pack,Stationery,pcs,149,134,46,237,70,FALSE,73.37,17388.65,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1021,LED Bulb 9W,Electrical,pcs,440,0,241,199,182,FALSE,95.14,18932.71,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,387,0,185,202,258,TRUE,1097.41,221675.98,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1025,Extension Board,Electrical,pcs,219,323,152,390,216,FALSE,343.23,133861.42,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1026,Extension Board (Bulk),Electrical,pcs,435,0,82,353,183,FALSE,1792.84,632872.04,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1027,Ceiling Fan,Electrical,pcs,288,0,143,145,227,TRUE,1681.4,243803.61,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1031,Copper Wire 90m,Electrical,pcs,171,443,80,534,173,FALSE,1742.12,930290.51,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,249,0,104,145,141,FALSE,8062.85,1169113.75,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1033,MCB 32A,Electrical,pcs,53,0,29,24,37,TRUE,249.26,5982.22,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1034,MCB 32A (Bulk),Electrical,pcs,25,74,25,74,22,FALSE,1299.66,96175.01,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1035,Emergency Light,Electrical,pcs,251,0,157,94,180,TRUE,665.46,62553.61,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1036,Emergency Light (Bulk),Electrical,pcs,290,0,215,75,158,TRUE,3400.86,255064.65,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1037,Wall Socket,Electrical,pcs,240,0,116,124,198,TRUE,58.42,7243.61,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1038,Wall Socket (Bulk),Electrical,pcs,550,471,227,794,260,FALSE,269.74,214175.78,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1039,Table Lamp,Electrical,pcs,428,0,129,299,246,FALSE,564.13,168674.36,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1040,Table Lamp (Bulk),Electrical,pcs,298,307,120,485,165,FALSE,2190.56,1062420.96,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1041,Basmati Rice,Grocery,kg,289,0,108,181,190,TRUE,91.6,16580.15,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1042,Basmati Rice (Bulk),Grocery,kg,50,0,36,14,39,TRUE,445.97,6243.57,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1043,Toor Dal,Grocery,kg,174,0,79,95,131,TRUE,127.19,12082.66,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1044,Toor Dal (Bulk),Grocery,kg,579,644,96,1127,202,FALSE,614.96,693063.0,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1045,Sugar,Grocery,kg,248,528,215,561,315,FALSE,45.21,25362.87,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1047,Wheat Atta,Grocery,kg,211,0,99,112,121,TRUE,41.44,4641.41,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1048,Wheat Atta (Bulk),Grocery,kg,113,0,49,64,54,FALSE,158.54,10146.34,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1049,Sunflower Oil (L),Grocery,kg,49,0,24,25,38,TRUE,131.84,3295.93,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,309,0,178,131,160,TRUE,676.74,88653.45,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1052,Tea Leaves (Bulk),Grocery,kg,196,0,89,107,121,TRUE,1943.38,207942.01,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1053,Salt,Grocery,kg,144,303,94,353,121,FALSE,20.3,7165.61,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1054,Salt (Bulk),Grocery,kg,294,0,95,199,190,FALSE,102.45,20387.2,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1055,Poha,Grocery,kg,129,0,70,59,67,TRUE,65.96,3891.43,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1056,Poha (Bulk),Grocery,kg,145,0,91,54,106,TRUE,255.17,13779.16,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1057,Chana Dal,Grocery,kg,531,0,179,352,211,FALSE,89.01,31332.22,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1058,Chana Dal (Bulk),Grocery,kg,88,81,35,134,42,FALSE,399.06,53474.29,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1059,Jaggery,Grocery,kg,179,0,74,105,72,FALSE,70.09,7359.17,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1060,Jaggery (Bulk),Grocery,kg,541,0,175,366,246,FALSE,307.23,112447.81,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1061,Hammer,Hardware,pcs,220,512,197,535,205,FALSE,244.45,130781.27,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1062,Hammer (Bulk),Hardware,pcs,45,140,40,145,58,FALSE,1208.92,175293.68,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1063,Screwdriver Set,Hardware,pcs,190,0,108,82,123,TRUE,327.16,26827.51,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,97,0,40,57,33,FALSE,1536.44,87576.81,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1065,Wall Plug Pack,Hardware,pcs,324,0,121,203,164,FALSE,41.16,8356.24,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,407,0,261,146,267,TRUE,214.46,31310.65,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1067,Padlock,Hardware,pcs,219,0,74,145,121,FALSE,215.87,31301.35,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1068,Padlock (Bulk),Hardware,pcs,97,0,45,52,77,TRUE,1045.35,54358.18,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1069,Measuring Tape 5m,Hardware,pcs,34,0,24,10,23,TRUE,130.61,1306.1,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1071,Spanner Set,Hardware,pcs,137,0,80,57,105,TRUE,707.32,40317.1,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1072,Spanner Set (Bulk),Hardware,pcs,297,693,259,731,276,FALSE,3070.76,2244728.59,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,205,0,176,29,113,TRUE,2222.78,64460.73,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1075,Wood Screws Pack,Hardware,pcs,340,0,123,217,108,FALSE,65.16,14139.44,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,331,0,183,148,195,TRUE,344.06,50920.72,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1077,Door Hinge,Hardware,pcs,137,320,171,286,179,FALSE,50.0,14300.02,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1078,Door Hinge (Bulk),Hardware,pcs,337,0,140,197,176,FALSE,266.51,52502.1,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1079,Paint Brush,Hardware,pcs,200,0,134,66,125,TRUE,87.16,5752.68,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1080,Paint Brush (Bulk),Hardware,pcs,146,0,81,65,109,TRUE,414.83,26963.73,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,178,357,168,367,156,FALSE,109.44,40163.71,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,148,0,87,61,119,TRUE,563.78,34390.29,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,195,0,77,118,103,FALSE,101.85,12018.86,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,374,0,247,127,191,TRUE,442.39,56183.32,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1085,Phenyl 1L,Cleaning,pcs,123,241,125,239,90,FALSE,66.47,15886.54,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,61,0,32,29,34,TRUE,329.43,9553.48,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1087,Broom,Cleaning,pcs,86,182,57,211,92,FALSE,106.2,22408.96,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1088,Broom (Bulk),Cleaning,pcs,337,318,145,510,135,FALSE,505.82,257970.48,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1089,Mop with Bucket,Cleaning,pcs,194,0,194,0,138,TRUE,859.4,0.0,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,612,0,250,362,240,FALSE,4121.04,1491815.11,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1091,Garbage Bags Roll,Cleaning,pcs,173,0,91,82,72,FALSE,91.5,7502.98,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,309,467,218,558,168,FALSE,418.15,233327.07,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1093,Hand Wash 250ml,Cleaning,pcs,253,0,117,136,146,TRUE,78.96,10738.27,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,192,0,56,136,97,FALSE,323.93,44054.65,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1095,Glass Cleaner,Cleaning,pcs,257,0,82,175,109,FALSE,104.24,18241.16,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,170,0,86,84,107,TRUE,420.68,35337.23,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1097,Scrub Pad Pack,Cleaning,pcs,556,0,204,352,231,FALSE,38.71,13626.86,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,290,616,214,692,275,FALSE,184.34,127560.31,Lotus Agencies
+2026-02-01,WH-Kolkata,SKU-1099,Dustbin 20L,Cleaning,pcs,149,401,103,447,97,FALSE,328.65,146905.11,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1101,Corrugated Box Small,Packaging,pcs,248,0,69,179,125,FALSE,18.06,3231.99,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,108,186,62,232,101,FALSE,90.92,21094.51,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1103,Corrugated Box Large,Packaging,pcs,278,0,228,50,168,TRUE,44.76,2237.88,Metro Wholesale
+2026-02-01,WH-Kolkata,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,198,0,132,66,160,TRUE,205.4,13556.44,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,267,0,108,159,115,FALSE,1777.26,282584.7,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1107,Packing Tape,Packaging,pcs,423,0,208,215,233,TRUE,40.74,8759.06,Unity Traders
+2026-02-01,WH-Kolkata,SKU-1108,Packing Tape (Bulk),Packaging,pcs,288,0,91,197,165,FALSE,218.43,43031.32,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1109,Courier Bag Pack,Packaging,pcs,289,0,82,207,174,FALSE,149.46,30937.47,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,386,0,120,266,177,FALSE,2223.5,591449.91,Greenleaf Supplies
+2026-02-01,WH-Kolkata,SKU-1113,Kraft Paper Roll,Packaging,pcs,447,462,194,715,127,FALSE,276.59,197764.52,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1115,Label Sticker Roll,Packaging,pcs,24,0,16,8,19,TRUE,228.38,1827.06,Sunrise Distributors
+2026-02-01,WH-Kolkata,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,281,0,77,204,133,FALSE,1087.46,221841.49,Apex Trading Co.
+2026-02-01,WH-Kolkata,SKU-1117,Thermocol Sheet,Packaging,pcs,211,491,210,492,139,FALSE,32.95,16212.08,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,167,0,114,53,103,TRUE,155.0,8215.15,Northstar Enterprises
+2026-02-01,WH-Kolkata,SKU-1119,Twine Roll,Packaging,pcs,85,138,52,171,72,FALSE,58.25,9961.0,Prime Packaging Works
+2026-02-01,WH-Kolkata,SKU-1120,Twine Roll (Bulk),Packaging,pcs,396,0,287,109,226,TRUE,286.67,31247.13,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1001,A4 Paper Ream,Stationery,pcs,209,0,143,66,130,TRUE,263.02,17359.35,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,97,163,77,183,90,FALSE,1145.53,209631.95,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1003,Ball Pen Box,Stationery,pcs,93,0,69,24,74,TRUE,87.28,2094.68,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,319,444,247,516,280,FALSE,382.69,197468.65,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1005,Stapler,Stationery,pcs,455,0,170,285,163,FALSE,127.64,36377.7,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1006,Stapler (Bulk),Stationery,pcs,333,617,210,740,287,FALSE,528.55,391130.25,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1008,Box File (Bulk),Stationery,pcs,304,0,177,127,168,TRUE,328.19,41680.72,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1009,Whiteboard Marker Set,Stationery,pcs,235,0,153,82,106,TRUE,173.86,14256.25,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,351,0,109,242,141,FALSE,748.78,181205.11,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1011,Sticky Notes Pack,Stationery,pcs,133,0,70,63,82,TRUE,61.66,3884.29,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,62,0,33,29,28,FALSE,253.95,7364.55,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1013,Notebook 200 pages,Stationery,pcs,363,0,220,143,139,FALSE,59.72,8539.97,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,271,0,90,181,143,FALSE,251.86,45586.46,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1015,Calculator,Stationery,pcs,91,115,72,134,82,FALSE,463.13,62059.53,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1016,Calculator (Bulk),Stationery,pcs,432,618,196,854,173,FALSE,2084.55,1780208.3,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1017,Glue Stick,Stationery,pcs,461,0,144,317,237,FALSE,23.38,7409.98,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1018,Glue Stick (Bulk),Stationery,pcs,556,0,113,443,180,FALSE,126.43,56010.68,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1019,Envelope Pack,Stationery,pcs,276,252,107,421,110,FALSE,87.39,36792.92,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,208,666,130,744,289,FALSE,373.0,277513.48,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1021,LED Bulb 9W,Electrical,pcs,58,110,28,140,55,FALSE,104.29,14601.0,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,363,347,116,594,144,FALSE,467.68,277803.48,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1023,LED Tube Light 20W,Electrical,pcs,135,0,109,26,103,TRUE,223.8,5818.79,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,149,0,124,25,106,TRUE,1156.25,28906.13,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1025,Extension Board,Electrical,pcs,445,0,163,282,212,FALSE,355.34,100205.21,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1027,Ceiling Fan,Electrical,pcs,505,0,110,395,272,FALSE,1855.65,732983.27,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1029,Modular Switch,Electrical,pcs,44,84,22,106,41,FALSE,41.77,4427.14,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1030,Modular Switch (Bulk),Electrical,pcs,123,0,82,41,79,TRUE,196.05,8038.07,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,271,585,135,721,248,FALSE,7928.34,5716330.02,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1034,MCB 32A (Bulk),Electrical,pcs,41,45,15,71,21,FALSE,1091.26,77479.47,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1035,Emergency Light,Electrical,pcs,71,0,23,48,39,FALSE,700.35,33616.94,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1036,Emergency Light (Bulk),Electrical,pcs,321,0,263,58,256,TRUE,2973.62,172469.71,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1037,Wall Socket,Electrical,pcs,452,0,174,278,204,FALSE,56.63,15743.01,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1038,Wall Socket (Bulk),Electrical,pcs,105,0,28,77,38,FALSE,281.84,21701.43,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1039,Table Lamp,Electrical,pcs,194,0,37,157,118,FALSE,523.9,82252.59,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1040,Table Lamp (Bulk),Electrical,pcs,225,0,142,83,144,TRUE,2513.87,208650.99,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1041,Basmati Rice,Grocery,kg,367,0,215,152,166,TRUE,98.87,15028.48,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1042,Basmati Rice (Bulk),Grocery,kg,34,93,19,108,37,FALSE,441.16,47645.77,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1043,Toor Dal,Grocery,kg,154,288,143,299,142,FALSE,135.19,40421.0,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1044,Toor Dal (Bulk),Grocery,kg,171,0,114,57,107,TRUE,654.71,37318.44,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1046,Sugar (Bulk),Grocery,kg,88,0,33,55,38,FALSE,200.51,11028.32,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1048,Wheat Atta (Bulk),Grocery,kg,134,375,133,376,134,FALSE,173.48,65230.26,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1049,Sunflower Oil (L),Grocery,kg,323,0,211,112,235,TRUE,143.54,16076.95,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,183,410,168,425,202,FALSE,601.69,255718.46,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1051,Tea Leaves,Grocery,kg,80,92,26,146,41,FALSE,383.8,56034.45,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1052,Tea Leaves (Bulk),Grocery,kg,375,0,203,172,169,FALSE,2035.93,350180.1,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1053,Salt,Grocery,kg,394,0,116,278,255,FALSE,21.65,6018.59,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1054,Salt (Bulk),Grocery,kg,598,0,154,444,233,FALSE,109.43,48588.24,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1055,Poha,Grocery,kg,213,0,46,167,117,FALSE,60.47,10098.76,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1056,Poha (Bulk),Grocery,kg,202,0,143,59,155,TRUE,278.06,16405.34,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1057,Chana Dal,Grocery,kg,178,361,121,418,161,FALSE,81.06,33884.13,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1059,Jaggery,Grocery,kg,46,0,24,22,19,FALSE,65.58,1442.71,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1060,Jaggery (Bulk),Grocery,kg,185,368,64,489,170,FALSE,289.8,141712.37,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1061,Hammer,Hardware,pcs,175,0,46,129,104,FALSE,239.87,30942.96,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1062,Hammer (Bulk),Hardware,pcs,458,0,133,325,197,FALSE,1287.79,418533.24,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1063,Screwdriver Set,Hardware,pcs,21,0,19,2,17,TRUE,290.15,580.3,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,150,352,157,345,177,FALSE,1542.82,532271.28,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1065,Wall Plug Pack,Hardware,pcs,139,0,119,20,93,TRUE,48.27,965.47,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,41,0,32,9,30,TRUE,220.07,1980.66,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1067,Padlock,Hardware,pcs,362,0,185,177,168,FALSE,217.25,38452.6,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1069,Measuring Tape 5m,Hardware,pcs,103,0,95,8,81,TRUE,144.49,1155.89,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,67,180,40,207,60,FALSE,701.77,145266.27,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1071,Spanner Set,Hardware,pcs,439,0,199,240,280,TRUE,640.54,153728.66,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1073,Drill Bit Set,Hardware,pcs,336,0,121,215,172,FALSE,496.45,106736.51,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1075,Wood Screws Pack,Hardware,pcs,322,0,191,131,180,TRUE,65.09,8526.67,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,179,214,96,297,122,FALSE,344.5,102315.77,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1077,Door Hinge,Hardware,pcs,200,0,93,107,99,FALSE,59.56,6373.15,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1078,Door Hinge (Bulk),Hardware,pcs,275,0,190,85,192,TRUE,234.49,19931.23,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1079,Paint Brush,Hardware,pcs,148,194,64,278,61,FALSE,92.18,25625.44,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1080,Paint Brush (Bulk),Hardware,pcs,462,0,139,323,163,FALSE,366.8,118475.0,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,154,0,54,100,89,FALSE,102.1,10209.88,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,131,0,66,65,71,TRUE,442.14,28739.33,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1085,Phenyl 1L,Cleaning,pcs,188,274,103,359,159,FALSE,76.4,27426.98,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,53,0,12,41,26,FALSE,297.36,12191.56,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1087,Broom,Cleaning,pcs,326,736,289,773,249,FALSE,112.3,86805.45,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1088,Broom (Bulk),Cleaning,pcs,119,0,65,54,82,TRUE,533.88,28829.63,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1089,Mop with Bucket,Cleaning,pcs,159,0,88,71,109,TRUE,904.7,64233.47,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1091,Garbage Bags Roll,Cleaning,pcs,143,252,95,300,137,FALSE,93.18,27954.72,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,314,0,69,245,154,FALSE,380.89,93317.84,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1093,Hand Wash 250ml,Cleaning,pcs,144,0,79,65,119,TRUE,69.69,4529.77,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,147,0,23,124,99,FALSE,339.31,42074.8,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1097,Scrub Pad Pack,Cleaning,pcs,81,0,53,28,47,TRUE,42.67,1194.67,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,278,244,144,378,147,FALSE,175.07,66176.32,Lotus Agencies
+2026-02-01,WH-Mumbai,SKU-1099,Dustbin 20L,Cleaning,pcs,418,0,154,264,270,TRUE,339.36,89591.17,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1101,Corrugated Box Small,Packaging,pcs,66,127,45,148,67,FALSE,18.79,2781.38,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,239,0,157,82,165,TRUE,85.15,6982.17,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1103,Corrugated Box Large,Packaging,pcs,72,0,28,44,22,FALSE,45.74,2012.54,Metro Wholesale
+2026-02-01,WH-Mumbai,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,277,0,101,176,202,TRUE,1867.75,328724.64,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1107,Packing Tape,Packaging,pcs,63,211,50,224,80,FALSE,45.05,10091.56,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1108,Packing Tape (Bulk),Packaging,pcs,213,0,88,125,112,FALSE,211.82,26477.99,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1109,Courier Bag Pack,Packaging,pcs,115,302,125,292,130,FALSE,161.65,47202.56,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,27,0,12,15,20,TRUE,806.28,12094.27,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1111,Stretch Film Roll,Packaging,pcs,43,0,19,24,25,TRUE,551.84,13244.19,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,240,0,228,12,176,TRUE,2224.03,26688.39,Greenleaf Supplies
+2026-02-01,WH-Mumbai,SKU-1113,Kraft Paper Roll,Packaging,pcs,142,0,52,90,63,FALSE,286.04,25743.55,Sunrise Distributors
+2026-02-01,WH-Mumbai,SKU-1114,Kraft Paper Roll (Bulk),Packaging,pcs,174,0,55,119,102,FALSE,1397.94,166354.93,Unity Traders
+2026-02-01,WH-Mumbai,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,516,0,313,203,208,TRUE,1082.41,219728.89,Apex Trading Co.
+2026-02-01,WH-Mumbai,SKU-1117,Thermocol Sheet,Packaging,pcs,375,431,61,745,208,FALSE,32.15,23955.11,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,103,289,79,313,110,FALSE,145.2,45448.94,Northstar Enterprises
+2026-02-01,WH-Mumbai,SKU-1119,Twine Roll,Packaging,pcs,93,0,34,59,57,FALSE,63.41,3741.34,Prime Packaging Works
+2026-02-01,WH-Mumbai,SKU-1120,Twine Roll (Bulk),Packaging,pcs,155,293,155,293,183,FALSE,277.55,81323.44,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1001,A4 Paper Ream,Stationery,pcs,64,0,25,39,22,FALSE,280.15,10925.96,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,129,0,129,0,93,TRUE,1297.8,0.0,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1003,Ball Pen Box,Stationery,pcs,212,677,254,635,238,FALSE,97.72,62050.8,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,172,0,78,94,117,TRUE,434.89,40879.35,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1005,Stapler,Stationery,pcs,185,345,153,377,173,FALSE,111.9,42185.85,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1006,Stapler (Bulk),Stationery,pcs,114,191,45,260,89,FALSE,595.78,154901.88,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1007,Box File,Stationery,pcs,106,243,97,252,110,FALSE,82.33,20746.45,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1008,Box File (Bulk),Stationery,pcs,481,0,142,339,188,FALSE,314.21,106515.51,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1009,Whiteboard Marker Set,Stationery,pcs,175,0,81,94,145,TRUE,168.61,15849.17,Unity Traders
+2026-02-01,WH-Pune,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,536,0,190,346,227,FALSE,666.76,230699.27,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,140,0,76,64,106,TRUE,268.04,17154.61,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1013,Notebook 200 pages,Stationery,pcs,490,0,291,199,229,TRUE,56.77,11296.71,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,84,0,39,45,40,FALSE,263.78,11870.25,Unity Traders
+2026-02-01,WH-Pune,SKU-1015,Calculator,Stationery,pcs,77,0,25,52,28,FALSE,462.05,24026.66,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1016,Calculator (Bulk),Stationery,pcs,202,377,103,476,170,FALSE,1865.15,887811.79,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1017,Glue Stick,Stationery,pcs,120,219,54,285,82,FALSE,23.16,6601.32,Unity Traders
+2026-02-01,WH-Pune,SKU-1018,Glue Stick (Bulk),Stationery,pcs,112,0,58,54,59,TRUE,112.89,6095.79,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1019,Envelope Pack,Stationery,pcs,24,56,21,59,21,FALSE,81.57,4812.55,Unity Traders
+2026-02-01,WH-Pune,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,129,0,58,71,87,TRUE,359.74,25541.69,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1021,LED Bulb 9W,Electrical,pcs,90,0,38,52,46,FALSE,104.09,5412.43,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,232,0,76,156,121,FALSE,405.43,63247.8,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1023,LED Tube Light 20W,Electrical,pcs,86,179,82,183,87,FALSE,236.86,43346.2,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,116,314,94,336,115,FALSE,1049.18,352522.9,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1025,Extension Board,Electrical,pcs,143,0,83,60,81,TRUE,356.86,21411.7,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1026,Extension Board (Bulk),Electrical,pcs,107,0,46,61,37,FALSE,1689.34,103049.93,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1027,Ceiling Fan,Electrical,pcs,235,0,89,146,193,TRUE,1788.85,261172.45,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,537,0,229,308,255,FALSE,7890.68,2430330.63,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1029,Modular Switch,Electrical,pcs,113,278,125,266,118,FALSE,43.33,11525.15,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1030,Modular Switch (Bulk),Electrical,pcs,336,579,189,726,314,FALSE,215.07,156141.73,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1033,MCB 32A,Electrical,pcs,171,295,131,335,139,FALSE,253.55,84940.88,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1038,Wall Socket (Bulk),Electrical,pcs,223,421,218,426,196,FALSE,279.52,119077.46,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1039,Table Lamp,Electrical,pcs,322,0,118,204,161,FALSE,525.21,107142.9,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1040,Table Lamp (Bulk),Electrical,pcs,508,0,173,335,236,FALSE,2362.56,791456.54,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1041,Basmati Rice,Grocery,kg,197,0,100,97,96,FALSE,100.62,9759.9,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1043,Toor Dal,Grocery,kg,224,0,84,140,113,FALSE,132.78,18588.72,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1044,Toor Dal (Bulk),Grocery,kg,386,0,143,243,195,FALSE,589.13,143157.79,Unity Traders
+2026-02-01,WH-Pune,SKU-1046,Sugar (Bulk),Grocery,kg,392,0,165,227,247,TRUE,202.67,46005.56,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1047,Wheat Atta,Grocery,kg,425,0,198,227,261,TRUE,40.21,9127.55,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1049,Sunflower Oil (L),Grocery,kg,183,0,63,120,126,TRUE,138.73,16647.7,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,75,0,33,42,43,TRUE,602.99,25325.67,Unity Traders
+2026-02-01,WH-Pune,SKU-1051,Tea Leaves,Grocery,kg,438,0,194,244,122,FALSE,434.91,106117.46,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1052,Tea Leaves (Bulk),Grocery,kg,284,0,113,171,128,FALSE,1905.13,325776.89,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1053,Salt,Grocery,kg,34,0,19,15,16,TRUE,22.08,331.24,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1054,Salt (Bulk),Grocery,kg,253,0,150,103,161,TRUE,99.0,10196.65,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1055,Poha,Grocery,kg,346,0,179,167,210,TRUE,58.14,9709.31,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1056,Poha (Bulk),Grocery,kg,36,41,22,55,17,FALSE,301.49,16581.81,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1058,Chana Dal (Bulk),Grocery,kg,49,86,36,99,56,FALSE,398.42,39444.03,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1062,Hammer (Bulk),Hardware,pcs,212,258,102,368,102,FALSE,1190.3,438029.69,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1063,Screwdriver Set,Hardware,pcs,171,0,77,94,134,TRUE,307.22,28878.39,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,488,0,147,341,159,FALSE,1515.56,516806.76,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1065,Wall Plug Pack,Hardware,pcs,456,0,189,267,140,FALSE,42.7,11399.62,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,107,0,57,50,46,FALSE,225.98,11299.02,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1067,Padlock,Hardware,pcs,85,0,40,45,67,TRUE,215.9,9715.51,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1068,Padlock (Bulk),Hardware,pcs,230,0,76,154,84,FALSE,907.52,139758.55,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1069,Measuring Tape 5m,Hardware,pcs,328,0,131,197,146,FALSE,131.76,25957.11,Unity Traders
+2026-02-01,WH-Pune,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,190,488,130,548,231,FALSE,592.71,324802.7,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1071,Spanner Set,Hardware,pcs,320,0,219,101,180,TRUE,644.48,65092.64,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1072,Spanner Set (Bulk),Hardware,pcs,141,0,76,65,96,TRUE,3073.19,199757.15,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1073,Drill Bit Set,Hardware,pcs,298,294,90,502,168,FALSE,465.4,233631.18,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,494,0,198,296,232,FALSE,2298.96,680493.48,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1075,Wood Screws Pack,Hardware,pcs,88,165,66,187,93,FALSE,64.88,12131.68,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,53,0,39,14,39,TRUE,334.46,4682.4,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1077,Door Hinge,Hardware,pcs,152,378,98,432,130,FALSE,53.72,23207.39,Unity Traders
+2026-02-01,WH-Pune,SKU-1078,Door Hinge (Bulk),Hardware,pcs,126,148,40,234,66,FALSE,260.35,60921.94,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1079,Paint Brush,Hardware,pcs,435,0,233,202,261,TRUE,78.89,15934.78,Unity Traders
+2026-02-01,WH-Pune,SKU-1080,Paint Brush (Bulk),Hardware,pcs,88,247,60,275,88,FALSE,379.98,104493.64,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,44,0,18,26,15,FALSE,131.13,3409.43,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,281,0,127,154,135,FALSE,542.69,83573.58,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1085,Phenyl 1L,Cleaning,pcs,218,453,221,450,213,FALSE,63.43,28544.42,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,265,0,140,125,171,TRUE,324.42,40552.75,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1087,Broom,Cleaning,pcs,122,0,50,72,55,FALSE,115.85,8341.22,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1088,Broom (Bulk),Cleaning,pcs,156,0,130,26,112,TRUE,533.84,13879.88,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1089,Mop with Bucket,Cleaning,pcs,486,0,221,265,194,FALSE,862.91,228670.09,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,483,0,211,272,192,FALSE,4022.51,1094123.26,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1091,Garbage Bags Roll,Cleaning,pcs,295,0,173,122,245,TRUE,93.49,11405.57,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,282,0,147,135,111,FALSE,386.24,52141.76,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,322,595,171,746,293,FALSE,366.44,273363.11,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1095,Glass Cleaner,Cleaning,pcs,328,0,166,162,141,FALSE,101.63,16463.88,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,69,0,46,23,43,TRUE,428.71,9860.29,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1097,Scrub Pad Pack,Cleaning,pcs,42,0,13,29,28,FALSE,40.31,1168.99,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,128,0,88,40,105,TRUE,175.44,7017.53,Lotus Agencies
+2026-02-01,WH-Pune,SKU-1099,Dustbin 20L,Cleaning,pcs,450,0,219,231,284,TRUE,312.48,72181.8,Unity Traders
+2026-02-01,WH-Pune,SKU-1100,Dustbin 20L (Bulk),Cleaning,pcs,602,0,203,399,286,FALSE,1718.05,685501.83,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1101,Corrugated Box Small,Packaging,pcs,526,411,165,772,171,FALSE,17.1,13200.3,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,405,0,147,258,221,FALSE,85.72,22115.36,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1103,Corrugated Box Large,Packaging,pcs,177,237,119,295,138,FALSE,41.28,12177.45,Metro Wholesale
+2026-02-01,WH-Pune,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,297,0,83,214,133,FALSE,177.48,37980.12,Unity Traders
+2026-02-01,WH-Pune,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,346,0,96,250,120,FALSE,1702.23,425556.82,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1107,Packing Tape,Packaging,pcs,210,677,173,714,215,FALSE,47.47,33891.59,Unity Traders
+2026-02-01,WH-Pune,SKU-1108,Packing Tape (Bulk),Packaging,pcs,316,0,130,186,216,TRUE,213.8,39765.97,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,182,0,117,65,74,TRUE,694.46,45140.2,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1111,Stretch Film Roll,Packaging,pcs,158,0,110,48,97,TRUE,554.15,26599.09,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,179,198,96,281,101,FALSE,2384.99,670180.97,Greenleaf Supplies
+2026-02-01,WH-Pune,SKU-1114,Kraft Paper Roll (Bulk),Packaging,pcs,93,270,85,278,109,FALSE,1269.48,352916.17,Unity Traders
+2026-02-01,WH-Pune,SKU-1115,Label Sticker Roll,Packaging,pcs,219,455,130,544,197,FALSE,235.74,128240.75,Sunrise Distributors
+2026-02-01,WH-Pune,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,307,225,89,443,84,FALSE,951.75,421624.9,Apex Trading Co.
+2026-02-01,WH-Pune,SKU-1117,Thermocol Sheet,Packaging,pcs,359,0,187,172,139,FALSE,32.61,5609.41,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,476,0,181,295,204,FALSE,152.96,45123.95,Northstar Enterprises
+2026-02-01,WH-Pune,SKU-1119,Twine Roll,Packaging,pcs,121,209,118,212,130,FALSE,58.76,12456.29,Prime Packaging Works
+2026-02-01,WH-Pune,SKU-1120,Twine Roll (Bulk),Packaging,pcs,113,202,66,249,100,FALSE,284.58,70861.11,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1001,A4 Paper Ream,Stationery,pcs,168,289,169,288,123,FALSE,277.2,79834.15,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,47,121,31,137,53,FALSE,1285.03,176048.76,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1003,Ball Pen Box,Stationery,pcs,672,0,124,548,176,FALSE,98.88,54184.64,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,272,0,27,245,96,FALSE,414.53,101559.95,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1005,Stapler,Stationery,pcs,360,0,76,284,136,FALSE,129.8,36862.91,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1006,Stapler (Bulk),Stationery,pcs,888,402,198,1092,159,FALSE,528.46,577073.81,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1007,Box File,Stationery,pcs,446,0,151,295,135,FALSE,67.94,20041.54,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1008,Box File (Bulk),Stationery,pcs,35,468,186,317,175,FALSE,367.48,116491.47,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1009,Whiteboard Marker Set,Stationery,pcs,127,235,124,238,120,FALSE,153.6,36555.78,Unity Traders
+2026-03-01,WH-Chennai,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,56,51,17,90,25,FALSE,776.32,69869.2,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1011,Sticky Notes Pack,Stationery,pcs,406,391,88,709,153,FALSE,62.04,43983.1,Unity Traders
+2026-03-01,WH-Chennai,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,458,0,119,339,156,FALSE,261.62,88687.74,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1013,Notebook 200 pages,Stationery,pcs,518,0,195,323,159,FALSE,55.1,17797.22,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,165,0,104,61,135,TRUE,246.72,15050.1,Unity Traders
+2026-03-01,WH-Chennai,SKU-1015,Calculator,Stationery,pcs,47,367,167,247,157,FALSE,417.36,103089.0,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1016,Calculator (Bulk),Stationery,pcs,74,0,64,10,48,TRUE,2191.87,21918.67,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1017,Glue Stick,Stationery,pcs,53,179,44,188,50,FALSE,26.4,4964.03,Unity Traders
+2026-03-01,WH-Chennai,SKU-1018,Glue Stick (Bulk),Stationery,pcs,105,677,144,638,251,FALSE,106.44,67909.03,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1019,Envelope Pack,Stationery,pcs,184,149,43,290,52,FALSE,73.07,21191.39,Unity Traders
+2026-03-01,WH-Chennai,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,264,0,99,165,123,FALSE,376.1,62055.75,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1021,LED Bulb 9W,Electrical,pcs,828,0,245,583,140,FALSE,95.6,55737.03,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,201,452,183,470,233,FALSE,436.74,205268.99,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1023,LED Tube Light 20W,Electrical,pcs,95,168,36,227,44,FALSE,239.68,54407.98,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,403,0,191,212,198,FALSE,1133.4,240281.53,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1025,Extension Board,Electrical,pcs,39,0,35,4,23,TRUE,367.29,1469.15,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1026,Extension Board (Bulk),Electrical,pcs,338,0,206,132,193,TRUE,1800.2,237626.78,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1027,Ceiling Fan,Electrical,pcs,708,0,142,566,169,FALSE,1838.5,1040592.24,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,224,0,94,130,148,TRUE,8198.7,1065831.0,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1029,Modular Switch,Electrical,pcs,245,0,94,151,174,TRUE,49.4,7459.63,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1030,Modular Switch (Bulk),Electrical,pcs,79,0,61,18,54,TRUE,194.38,3498.8,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1031,Copper Wire 90m,Electrical,pcs,112,0,33,79,43,FALSE,1650.26,130370.57,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1033,MCB 32A,Electrical,pcs,407,0,184,223,137,FALSE,272.17,60694.67,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1034,MCB 32A (Bulk),Electrical,pcs,245,0,161,84,177,TRUE,1308.95,109951.53,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1035,Emergency Light,Electrical,pcs,257,415,196,476,218,FALSE,761.8,362618.67,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1036,Emergency Light (Bulk),Electrical,pcs,137,262,141,258,120,FALSE,3522.85,908895.15,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1037,Wall Socket,Electrical,pcs,87,591,276,402,156,FALSE,58.23,23409.83,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1039,Table Lamp,Electrical,pcs,86,463,250,299,201,FALSE,485.44,145146.8,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1040,Table Lamp (Bulk),Electrical,pcs,277,0,154,123,201,TRUE,2417.67,297373.65,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1041,Basmati Rice,Grocery,kg,0,284,81,203,99,FALSE,94.01,19084.92,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1042,Basmati Rice (Bulk),Grocery,kg,256,0,71,185,79,FALSE,480.67,88924.76,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1043,Toor Dal,Grocery,kg,888,0,121,767,224,FALSE,155.04,118912.27,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1044,Toor Dal (Bulk),Grocery,kg,367,0,160,207,151,FALSE,679.08,140569.56,Unity Traders
+2026-03-01,WH-Chennai,SKU-1045,Sugar,Grocery,kg,525,0,131,394,139,FALSE,41.45,16330.77,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1046,Sugar (Bulk),Grocery,kg,600,445,124,921,167,FALSE,186.4,171673.39,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1047,Wheat Atta,Grocery,kg,125,0,58,67,89,TRUE,41.17,2758.64,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1048,Wheat Atta (Bulk),Grocery,kg,40,261,68,233,106,FALSE,191.63,44649.07,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1049,Sunflower Oil (L),Grocery,kg,168,547,107,608,215,FALSE,130.49,79340.32,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,86,208,83,211,120,FALSE,628.2,132549.38,Unity Traders
+2026-03-01,WH-Chennai,SKU-1051,Tea Leaves,Grocery,kg,190,641,237,594,274,FALSE,415.2,246628.31,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1052,Tea Leaves (Bulk),Grocery,kg,75,0,59,16,56,TRUE,1984.72,31755.52,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1053,Salt,Grocery,kg,82,488,180,390,160,FALSE,23.9,9321.59,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1054,Salt (Bulk),Grocery,kg,315,0,96,219,135,FALSE,111.15,24342.24,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1055,Poha,Grocery,kg,65,340,134,271,135,FALSE,60.62,16426.9,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1056,Poha (Bulk),Grocery,kg,218,0,174,44,110,TRUE,300.82,13235.87,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1057,Chana Dal,Grocery,kg,204,0,48,156,96,FALSE,90.61,14135.09,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1058,Chana Dal (Bulk),Grocery,kg,120,368,107,381,187,FALSE,445.81,169853.78,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1059,Jaggery,Grocery,kg,165,667,148,684,209,FALSE,63.67,43552.58,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1060,Jaggery (Bulk),Grocery,kg,942,459,100,1301,235,FALSE,321.67,418487.04,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1061,Hammer,Hardware,pcs,40,150,87,103,96,FALSE,285.81,29437.99,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1062,Hammer (Bulk),Hardware,pcs,357,0,93,264,163,FALSE,1156.87,305413.18,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1063,Screwdriver Set,Hardware,pcs,134,287,133,288,202,FALSE,299.4,86227.66,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,153,417,143,427,130,FALSE,1493.55,637746.92,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1065,Wall Plug Pack,Hardware,pcs,422,0,100,322,111,FALSE,47.29,15228.87,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,219,0,177,42,127,TRUE,189.28,7949.77,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1067,Padlock,Hardware,pcs,351,0,191,160,216,TRUE,205.42,32867.9,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1068,Padlock (Bulk),Hardware,pcs,555,0,125,430,207,FALSE,974.59,419075.26,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1069,Measuring Tape 5m,Hardware,pcs,104,0,8,96,26,FALSE,150.78,14474.76,Unity Traders
+2026-03-01,WH-Chennai,SKU-1071,Spanner Set,Hardware,pcs,155,439,237,357,215,FALSE,646.84,230920.65,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1072,Spanner Set (Bulk),Hardware,pcs,234,0,128,106,177,TRUE,2793.93,296156.69,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1073,Drill Bit Set,Hardware,pcs,385,0,84,301,164,FALSE,498.95,150182.87,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,243,373,83,533,206,FALSE,2371.1,1263795.88,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1075,Wood Screws Pack,Hardware,pcs,164,0,82,82,94,TRUE,74.04,6071.56,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,149,475,282,342,159,FALSE,331.27,113294.38,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1077,Door Hinge,Hardware,pcs,334,512,203,643,305,FALSE,54.45,35008.96,Unity Traders
+2026-03-01,WH-Chennai,SKU-1078,Door Hinge (Bulk),Hardware,pcs,146,119,44,221,43,FALSE,252.24,55745.49,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1080,Paint Brush (Bulk),Hardware,pcs,406,0,142,264,225,FALSE,418.31,110434.6,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,10,176,93,93,79,FALSE,121.26,11277.5,Lotus Agencies
+2026-03-01,WH-Chennai,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,393,0,132,261,177,FALSE,509.63,133012.4,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,81,434,189,326,238,FALSE,103.34,33689.76,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,22,106,33,95,49,FALSE,419.35,39837.92,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1085,Phenyl 1L,Cleaning,pcs,38,0,17,21,23,TRUE,72.61,1524.77,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1087,Broom,Cleaning,pcs,181,0,21,160,52,FALSE,113.25,18119.41,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1088,Broom (Bulk),Cleaning,pcs,581,0,159,422,160,FALSE,545.13,230044.7,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1089,Mop with Bucket,Cleaning,pcs,39,126,42,123,59,FALSE,902.86,111052.34,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,250,0,112,138,159,TRUE,4236.42,584626.01,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1091,Garbage Bags Roll,Cleaning,pcs,115,491,186,420,271,FALSE,86.25,36226.63,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1093,Hand Wash 250ml,Cleaning,pcs,520,436,162,794,205,FALSE,76.64,60848.46,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,404,0,129,275,167,FALSE,366.36,100748.56,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,162,327,163,326,145,FALSE,466.58,152103.7,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1099,Dustbin 20L,Cleaning,pcs,237,379,190,426,200,FALSE,363.76,154961.63,Unity Traders
+2026-03-01,WH-Chennai,SKU-1100,Dustbin 20L (Bulk),Cleaning,pcs,175,502,81,596,205,FALSE,1520.18,906027.71,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1101,Corrugated Box Small,Packaging,pcs,442,0,115,327,127,FALSE,16.57,5419.44,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,231,238,94,375,99,FALSE,76.76,28786.76,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1103,Corrugated Box Large,Packaging,pcs,112,409,140,381,185,FALSE,45.55,17353.86,Metro Wholesale
+2026-03-01,WH-Chennai,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,263,0,242,21,181,TRUE,193.96,4073.07,Unity Traders
+2026-03-01,WH-Chennai,SKU-1105,Bubble Wrap Roll,Packaging,pcs,159,569,233,495,238,FALSE,354.1,175278.72,Sunrise Distributors
+2026-03-01,WH-Chennai,SKU-1107,Packing Tape,Packaging,pcs,400,0,270,130,190,TRUE,48.56,6312.34,Unity Traders
+2026-03-01,WH-Chennai,SKU-1108,Packing Tape (Bulk),Packaging,pcs,354,0,172,182,242,TRUE,222.02,40406.75,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1109,Courier Bag Pack,Packaging,pcs,260,0,81,179,121,FALSE,161.79,28959.88,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,134,318,86,366,137,FALSE,2458.6,899847.75,Greenleaf Supplies
+2026-03-01,WH-Chennai,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,489,0,148,341,267,FALSE,964.21,328796.53,Apex Trading Co.
+2026-03-01,WH-Chennai,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,17,46,19,44,28,FALSE,176.46,7764.37,Northstar Enterprises
+2026-03-01,WH-Chennai,SKU-1119,Twine Roll,Packaging,pcs,81,0,61,20,50,TRUE,65.12,1302.41,Prime Packaging Works
+2026-03-01,WH-Chennai,SKU-1120,Twine Roll (Bulk),Packaging,pcs,253,0,86,167,83,FALSE,303.94,50758.44,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1001,A4 Paper Ream,Stationery,pcs,162,0,102,60,88,TRUE,282.98,16978.99,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,58,135,55,138,47,FALSE,1259.5,173810.85,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1003,Ball Pen Box,Stationery,pcs,292,0,193,99,228,TRUE,84.38,8353.33,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,110,292,107,295,86,FALSE,409.79,120889.26,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1005,Stapler,Stationery,pcs,75,734,197,612,172,FALSE,119.99,73434.02,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1006,Stapler (Bulk),Stationery,pcs,624,0,196,428,293,FALSE,576.37,246685.36,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1009,Whiteboard Marker Set,Stationery,pcs,314,297,182,429,187,FALSE,157.67,67638.84,Unity Traders
+2026-03-01,WH-Delhi,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,94,0,51,43,47,TRUE,733.63,31545.95,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1011,Sticky Notes Pack,Stationery,pcs,526,0,137,389,188,FALSE,54.26,21105.87,Unity Traders
+2026-03-01,WH-Delhi,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,0,590,137,453,171,FALSE,280.24,126948.98,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1013,Notebook 200 pages,Stationery,pcs,79,0,25,54,38,FALSE,52.4,2829.66,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,163,440,265,338,199,FALSE,273.34,92388.49,Unity Traders
+2026-03-01,WH-Delhi,SKU-1016,Calculator (Bulk),Stationery,pcs,43,0,14,29,21,FALSE,1936.29,56152.33,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1017,Glue Stick,Stationery,pcs,102,0,97,5,61,TRUE,22.89,114.45,Unity Traders
+2026-03-01,WH-Delhi,SKU-1018,Glue Stick (Bulk),Stationery,pcs,50,0,17,33,24,FALSE,111.08,3665.68,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1019,Envelope Pack,Stationery,pcs,79,149,60,168,42,FALSE,80.55,13532.24,Unity Traders
+2026-03-01,WH-Delhi,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,191,382,250,323,190,FALSE,373.23,120552.59,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1021,LED Bulb 9W,Electrical,pcs,75,0,39,36,43,TRUE,86.5,3114.16,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,218,524,133,609,246,FALSE,437.43,266391.99,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,318,0,199,119,179,TRUE,1089.93,129701.19,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1025,Extension Board,Electrical,pcs,304,0,131,173,177,TRUE,348.12,60224.15,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1026,Extension Board (Bulk),Electrical,pcs,90,0,41,49,38,FALSE,1688.35,82729.24,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,184,470,195,459,171,FALSE,9460.17,4342218.76,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1029,Modular Switch,Electrical,pcs,446,0,169,277,138,FALSE,41.85,11592.48,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1030,Modular Switch (Bulk),Electrical,pcs,197,453,188,462,221,FALSE,220.59,101911.17,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1031,Copper Wire 90m,Electrical,pcs,602,0,111,491,154,FALSE,1564.86,768345.92,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,48,215,78,185,94,FALSE,6982.77,1291811.9,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1033,MCB 32A,Electrical,pcs,31,237,96,172,129,FALSE,243.79,41932.34,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1034,MCB 32A (Bulk),Electrical,pcs,377,0,284,93,172,TRUE,1101.99,102485.13,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1035,Emergency Light,Electrical,pcs,136,0,42,94,45,FALSE,708.81,66628.1,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1036,Emergency Light (Bulk),Electrical,pcs,447,0,99,348,161,FALSE,3008.31,1046893.16,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1037,Wall Socket,Electrical,pcs,188,0,112,76,110,TRUE,64.71,4917.95,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1038,Wall Socket (Bulk),Electrical,pcs,158,342,130,370,240,FALSE,270.59,100117.45,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1039,Table Lamp,Electrical,pcs,152,412,209,355,126,FALSE,495.37,175857.37,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1041,Basmati Rice,Grocery,kg,11,84,30,65,51,FALSE,100.34,6522.32,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1042,Basmati Rice (Bulk),Grocery,kg,195,300,128,367,181,FALSE,483.94,177605.81,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1043,Toor Dal,Grocery,kg,699,0,234,465,224,FALSE,127.57,59318.69,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1045,Sugar,Grocery,kg,738,0,250,488,283,FALSE,41.23,20122.04,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1046,Sugar (Bulk),Grocery,kg,143,528,171,500,161,FALSE,182.48,91237.5,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1049,Sunflower Oil (L),Grocery,kg,192,484,219,457,231,FALSE,125.58,57389.5,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,206,0,113,93,118,TRUE,587.06,54596.95,Unity Traders
+2026-03-01,WH-Delhi,SKU-1051,Tea Leaves,Grocery,kg,65,352,109,308,104,FALSE,442.28,136223.37,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1052,Tea Leaves (Bulk),Grocery,kg,571,0,178,393,208,FALSE,1765.07,693672.85,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1053,Salt,Grocery,kg,72,0,34,38,58,TRUE,21.01,798.37,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1054,Salt (Bulk),Grocery,kg,121,349,159,311,171,FALSE,97.03,30175.46,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1055,Poha,Grocery,kg,166,584,73,677,149,FALSE,57.6,38996.45,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1057,Chana Dal,Grocery,kg,226,0,137,89,175,TRUE,81.84,7284.01,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1058,Chana Dal (Bulk),Grocery,kg,227,0,28,199,117,FALSE,398.95,79390.98,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1059,Jaggery,Grocery,kg,225,0,55,170,52,FALSE,63.13,10732.78,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1060,Jaggery (Bulk),Grocery,kg,51,53,19,85,21,FALSE,292.16,24833.22,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1061,Hammer,Hardware,pcs,232,0,111,121,183,TRUE,277.15,33534.61,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1062,Hammer (Bulk),Hardware,pcs,68,0,26,42,41,FALSE,1084.3,45540.52,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1063,Screwdriver Set,Hardware,pcs,229,516,235,510,286,FALSE,324.94,165718.25,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,507,0,189,318,175,FALSE,1341.6,426628.96,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1065,Wall Plug Pack,Hardware,pcs,358,212,110,460,111,FALSE,48.33,22230.8,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,379,0,162,217,175,FALSE,198.35,43042.95,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1067,Padlock,Hardware,pcs,144,439,119,464,158,FALSE,204.13,94717.81,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1068,Padlock (Bulk),Hardware,pcs,16,244,58,202,87,FALSE,978.27,197609.92,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1069,Measuring Tape 5m,Hardware,pcs,51,118,34,135,44,FALSE,136.95,18487.76,Unity Traders
+2026-03-01,WH-Delhi,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,225,517,156,586,225,FALSE,616.62,361341.14,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1071,Spanner Set,Hardware,pcs,61,0,25,36,42,TRUE,684.82,24653.34,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1072,Spanner Set (Bulk),Hardware,pcs,278,0,187,91,138,TRUE,2992.68,272333.66,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1073,Drill Bit Set,Hardware,pcs,76,492,242,326,225,FALSE,521.51,170011.38,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,173,321,134,360,162,FALSE,2396.94,862900.01,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1075,Wood Screws Pack,Hardware,pcs,0,403,168,235,130,FALSE,69.88,16422.61,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,192,238,95,335,76,FALSE,326.0,109209.0,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1078,Door Hinge (Bulk),Hardware,pcs,256,0,59,197,87,FALSE,271.07,53400.84,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1079,Paint Brush,Hardware,pcs,50,74,25,99,43,FALSE,87.24,8637.09,Unity Traders
+2026-03-01,WH-Delhi,SKU-1080,Paint Brush (Bulk),Hardware,pcs,95,261,152,204,133,FALSE,416.91,85050.49,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,384,0,230,154,221,TRUE,124.27,19137.07,Lotus Agencies
+2026-03-01,WH-Delhi,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,221,0,82,139,91,FALSE,508.21,70641.77,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,139,0,31,108,51,FALSE,100.17,10818.53,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,39,352,132,259,109,FALSE,320.04,82889.21,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1087,Broom,Cleaning,pcs,285,0,139,146,122,FALSE,107.73,15728.77,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1088,Broom (Bulk),Cleaning,pcs,74,231,54,251,79,FALSE,516.14,129550.64,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1089,Mop with Bucket,Cleaning,pcs,444,0,266,178,221,TRUE,874.46,155654.42,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,227,0,131,96,153,TRUE,4554.95,437274.91,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1091,Garbage Bags Roll,Cleaning,pcs,648,0,261,387,283,FALSE,86.65,33534.68,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,65,0,55,10,45,TRUE,406.62,4066.2,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1093,Hand Wash 250ml,Cleaning,pcs,203,307,93,417,115,FALSE,72.41,30193.34,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,186,0,94,92,124,TRUE,357.16,32858.58,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,250,385,94,541,243,FALSE,458.54,248071.32,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1099,Dustbin 20L,Cleaning,pcs,172,499,193,478,161,FALSE,331.73,158564.87,Unity Traders
+2026-03-01,WH-Delhi,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,90,0,34,56,49,FALSE,83.21,4659.89,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1103,Corrugated Box Large,Packaging,pcs,2,164,71,95,55,FALSE,45.29,4302.77,Metro Wholesale
+2026-03-01,WH-Delhi,SKU-1107,Packing Tape,Packaging,pcs,44,82,36,90,47,FALSE,48.96,4406.16,Unity Traders
+2026-03-01,WH-Delhi,SKU-1108,Packing Tape (Bulk),Packaging,pcs,38,0,13,25,23,FALSE,192.44,4811.03,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,155,0,96,59,84,TRUE,777.17,45852.95,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1111,Stretch Film Roll,Packaging,pcs,151,519,173,497,165,FALSE,511.91,254419.62,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,143,372,143,372,148,FALSE,2312.1,860101.46,Greenleaf Supplies
+2026-03-01,WH-Delhi,SKU-1113,Kraft Paper Roll,Packaging,pcs,271,0,226,45,187,TRUE,291.01,13095.36,Sunrise Distributors
+2026-03-01,WH-Delhi,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,274,0,202,72,203,TRUE,994.99,71639.09,Apex Trading Co.
+2026-03-01,WH-Delhi,SKU-1117,Thermocol Sheet,Packaging,pcs,211,685,153,743,311,FALSE,33.48,24879.12,Prime Packaging Works
+2026-03-01,WH-Delhi,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,189,0,53,136,109,FALSE,172.42,23449.71,Northstar Enterprises
+2026-03-01,WH-Delhi,SKU-1120,Twine Roll (Bulk),Packaging,pcs,48,420,89,379,160,FALSE,284.98,108009.01,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1001,A4 Paper Ream,Stationery,pcs,523,0,284,239,230,FALSE,280.97,67151.9,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,304,0,211,93,189,TRUE,1146.95,106666.12,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1003,Ball Pen Box,Stationery,pcs,214,679,255,638,181,FALSE,98.71,62976.12,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1005,Stapler,Stationery,pcs,28,143,47,124,67,FALSE,109.52,13580.92,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1006,Stapler (Bulk),Stationery,pcs,20,57,24,53,29,FALSE,609.58,32307.55,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1007,Box File,Stationery,pcs,461,0,79,382,75,FALSE,80.96,30928.12,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1009,Whiteboard Marker Set,Stationery,pcs,486,0,128,358,200,FALSE,154.29,55234.08,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,425,0,255,170,238,TRUE,769.06,130740.82,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,0,218,68,150,85,FALSE,264.55,39682.78,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1013,Notebook 200 pages,Stationery,pcs,301,0,243,58,220,TRUE,55.47,3217.42,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1015,Calculator,Stationery,pcs,17,80,54,43,37,FALSE,412.62,17742.81,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1016,Calculator (Bulk),Stationery,pcs,102,347,74,375,137,FALSE,1920.61,720229.61,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1017,Glue Stick,Stationery,pcs,593,0,154,439,244,FALSE,25.33,11120.15,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1018,Glue Stick (Bulk),Stationery,pcs,69,223,76,216,58,FALSE,118.06,25501.39,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1019,Envelope Pack,Stationery,pcs,237,0,56,181,70,FALSE,74.24,13437.44,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1021,LED Bulb 9W,Electrical,pcs,199,604,247,556,182,FALSE,95.95,53348.79,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,202,665,114,753,258,FALSE,1101.34,829309.45,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1025,Extension Board,Electrical,pcs,390,507,165,732,216,FALSE,346.55,253675.94,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1026,Extension Board (Bulk),Electrical,pcs,353,0,172,181,183,TRUE,1805.75,326840.35,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1027,Ceiling Fan,Electrical,pcs,145,491,193,443,227,FALSE,1694.63,750720.26,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1031,Copper Wire 90m,Electrical,pcs,534,0,121,413,173,FALSE,1747.54,721734.21,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,145,347,131,361,141,FALSE,8131.36,2935421.74,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1033,MCB 32A,Electrical,pcs,24,74,22,76,37,FALSE,249.83,18986.86,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1034,MCB 32A (Bulk),Electrical,pcs,74,0,28,46,22,FALSE,1311.9,60347.56,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1035,Emergency Light,Electrical,pcs,94,260,110,244,180,FALSE,670.83,163682.32,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1036,Emergency Light (Bulk),Electrical,pcs,75,532,143,464,158,FALSE,3436.63,1594597.26,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1037,Wall Socket,Electrical,pcs,124,451,167,408,198,FALSE,58.48,23861.74,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1038,Wall Socket (Bulk),Electrical,pcs,794,0,149,645,260,FALSE,270.34,174366.31,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1039,Table Lamp,Electrical,pcs,299,0,277,22,246,TRUE,566.4,12460.81,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1040,Table Lamp (Bulk),Electrical,pcs,485,0,79,406,165,FALSE,2211.27,897777.64,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1041,Basmati Rice,Grocery,kg,181,305,186,300,190,FALSE,91.89,27566.83,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1042,Basmati Rice (Bulk),Grocery,kg,14,64,31,47,39,FALSE,450.61,21178.47,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1043,Toor Dal,Grocery,kg,95,268,97,266,131,FALSE,128.63,34214.83,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1044,Toor Dal (Bulk),Grocery,kg,1127,0,194,933,202,FALSE,617.78,576388.07,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1045,Sugar,Grocery,kg,561,0,195,366,315,FALSE,45.24,16557.64,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1047,Wheat Atta,Grocery,kg,112,244,78,278,121,FALSE,41.64,11577.22,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1048,Wheat Atta (Bulk),Grocery,kg,64,115,55,124,54,FALSE,160.26,19872.41,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1049,Sunflower Oil (L),Grocery,kg,25,89,24,90,38,FALSE,133.07,11976.24,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,131,408,150,389,160,FALSE,681.87,265246.83,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1052,Tea Leaves (Bulk),Grocery,kg,107,254,119,242,121,FALSE,1949.76,471842.44,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1053,Salt,Grocery,kg,353,0,66,287,121,FALSE,20.34,5837.65,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1054,Salt (Bulk),Grocery,kg,199,342,215,326,190,FALSE,102.56,33433.42,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1055,Poha,Grocery,kg,59,213,68,204,67,FALSE,66.46,13557.39,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1056,Poha (Bulk),Grocery,kg,54,204,69,189,106,FALSE,255.29,48248.88,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1057,Chana Dal,Grocery,kg,352,0,178,174,211,TRUE,89.41,15557.43,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1058,Chana Dal (Bulk),Grocery,kg,134,0,24,110,42,FALSE,402.3,44253.29,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1059,Jaggery,Grocery,kg,105,239,91,253,72,FALSE,70.3,17785.04,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1060,Jaggery (Bulk),Grocery,kg,366,0,117,249,246,FALSE,308.65,76853.49,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1061,Hammer,Hardware,pcs,535,0,198,337,205,FALSE,244.94,82545.09,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1062,Hammer (Bulk),Hardware,pcs,145,0,50,95,58,FALSE,1219.48,115850.66,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1063,Screwdriver Set,Hardware,pcs,82,205,108,179,123,FALSE,328.49,58799.89,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,57,0,35,22,33,TRUE,1553.05,34167.19,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1065,Wall Plug Pack,Hardware,pcs,203,0,155,48,164,TRUE,41.26,1980.33,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,146,684,208,622,267,FALSE,215.04,133757.58,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1067,Padlock,Hardware,pcs,145,228,74,299,121,FALSE,216.21,64647.16,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1068,Padlock (Bulk),Hardware,pcs,52,145,35,162,77,FALSE,1049.95,170091.61,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1069,Measuring Tape 5m,Hardware,pcs,10,90,34,66,23,FALSE,130.67,8624.15,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1071,Spanner Set,Hardware,pcs,57,208,86,179,105,FALSE,707.73,126683.66,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1072,Spanner Set (Bulk),Hardware,pcs,731,0,89,642,276,FALSE,3095.16,1987090.91,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,29,422,149,302,113,FALSE,2233.9,674638.02,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1075,Wood Screws Pack,Hardware,pcs,217,0,160,57,108,TRUE,65.59,3738.44,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,148,400,136,412,195,FALSE,346.66,142824.46,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1077,Door Hinge,Hardware,pcs,286,0,118,168,179,TRUE,50.4,8466.71,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1078,Door Hinge (Bulk),Hardware,pcs,197,348,76,469,176,FALSE,266.95,125198.04,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1079,Paint Brush,Hardware,pcs,66,201,113,154,125,FALSE,87.27,13439.81,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1080,Paint Brush (Bulk),Hardware,pcs,65,175,56,184,109,FALSE,415.36,76425.43,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,367,450,132,685,156,FALSE,109.7,75144.66,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,61,296,80,277,119,FALSE,568.53,157483.99,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,118,163,61,220,103,FALSE,101.9,22418.65,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,127,640,317,450,191,FALSE,444.14,199864.52,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1085,Phenyl 1L,Cleaning,pcs,239,0,89,150,90,FALSE,67.19,10079.14,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,29,117,43,103,34,FALSE,329.79,33968.0,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1087,Broom,Cleaning,pcs,211,0,71,140,92,FALSE,107.13,14997.6,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1088,Broom (Bulk),Cleaning,pcs,510,0,84,426,135,FALSE,507.62,216246.67,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1089,Mop with Bucket,Cleaning,pcs,0,323,90,233,138,FALSE,860.43,200480.84,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,362,0,245,117,240,TRUE,4160.68,486799.22,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1091,Garbage Bags Roll,Cleaning,pcs,82,224,97,209,72,FALSE,92.31,19292.93,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,558,0,119,439,168,FALSE,421.48,185028.6,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1093,Hand Wash 250ml,Cleaning,pcs,136,314,96,354,146,FALSE,79.3,28071.0,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,136,0,55,81,97,TRUE,324.29,26267.7,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1095,Glass Cleaner,Cleaning,pcs,175,397,120,452,109,FALSE,104.46,47217.7,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,84,251,44,291,107,FALSE,422.63,122984.88,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1097,Scrub Pad Pack,Cleaning,pcs,352,0,223,129,231,TRUE,39.08,5041.87,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,692,0,181,511,275,FALSE,185.88,94982.46,Lotus Agencies
+2026-03-01,WH-Kolkata,SKU-1099,Dustbin 20L,Cleaning,pcs,447,0,150,297,97,FALSE,329.28,97794.79,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1101,Corrugated Box Small,Packaging,pcs,179,0,72,107,125,TRUE,18.2,1947.7,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,232,0,78,154,101,FALSE,91.34,14066.2,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1103,Corrugated Box Large,Packaging,pcs,50,510,168,392,168,FALSE,45.21,17721.54,Metro Wholesale
+2026-03-01,WH-Kolkata,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,66,364,123,307,160,FALSE,205.72,63156.83,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,159,0,116,43,115,TRUE,1778.24,76464.44,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1107,Packing Tape,Packaging,pcs,215,445,20,640,233,FALSE,40.89,26171.81,Unity Traders
+2026-03-01,WH-Kolkata,SKU-1108,Packing Tape (Bulk),Packaging,pcs,197,331,131,397,165,FALSE,219.94,87318.01,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1109,Courier Bag Pack,Packaging,pcs,207,424,135,496,174,FALSE,151.21,75000.27,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,266,0,142,124,177,TRUE,2242.19,278031.4,Greenleaf Supplies
+2026-03-01,WH-Kolkata,SKU-1113,Kraft Paper Roll,Packaging,pcs,715,0,158,557,127,FALSE,277.42,154522.27,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1115,Label Sticker Roll,Packaging,pcs,8,55,21,42,19,FALSE,230.68,9688.62,Sunrise Distributors
+2026-03-01,WH-Kolkata,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,204,0,101,103,133,TRUE,1100.35,113335.89,Apex Trading Co.
+2026-03-01,WH-Kolkata,SKU-1117,Thermocol Sheet,Packaging,pcs,492,0,183,309,139,FALSE,33.29,10286.06,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,53,240,53,240,103,FALSE,155.14,37234.1,Northstar Enterprises
+2026-03-01,WH-Kolkata,SKU-1119,Twine Roll,Packaging,pcs,171,0,39,132,72,FALSE,58.29,7693.84,Prime Packaging Works
+2026-03-01,WH-Kolkata,SKU-1120,Twine Roll (Bulk),Packaging,pcs,109,539,238,410,226,FALSE,288.88,118442.41,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1001,A4 Paper Ream,Stationery,pcs,66,343,135,274,130,FALSE,265.55,72760.56,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,183,0,47,136,90,FALSE,1157.3,157393.45,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1003,Ball Pen Box,Stationery,pcs,24,183,67,140,74,FALSE,87.96,12314.79,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,516,0,175,341,280,FALSE,384.58,131143.4,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1005,Stapler,Stationery,pcs,285,0,101,184,163,FALSE,128.57,23656.24,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1006,Stapler (Bulk),Stationery,pcs,740,0,138,602,287,FALSE,530.49,319352.78,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1008,Box File (Bulk),Stationery,pcs,127,532,162,497,168,FALSE,331.94,164972.91,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1009,Whiteboard Marker Set,Stationery,pcs,82,231,68,245,106,FALSE,173.97,42622.65,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,242,0,161,81,141,TRUE,754.35,61102.37,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1011,Sticky Notes Pack,Stationery,pcs,63,150,82,131,82,FALSE,62.14,8140.54,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,29,55,28,56,28,FALSE,254.63,14259.05,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1013,Notebook 200 pages,Stationery,pcs,143,461,99,505,139,FALSE,60.31,30458.99,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,181,0,82,99,143,TRUE,253.98,25144.1,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1015,Calculator,Stationery,pcs,134,0,55,79,82,TRUE,464.04,36659.41,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1016,Calculator (Bulk),Stationery,pcs,854,0,264,590,173,FALSE,2099.83,1238901.63,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1017,Glue Stick,Stationery,pcs,317,0,228,89,237,TRUE,23.64,2103.63,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1018,Glue Stick (Bulk),Stationery,pcs,443,604,120,927,180,FALSE,127.52,118213.34,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1019,Envelope Pack,Stationery,pcs,421,327,106,642,110,FALSE,88.37,56730.9,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,744,0,253,491,289,FALSE,375.02,184134.07,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1021,LED Bulb 9W,Electrical,pcs,140,0,42,98,55,FALSE,105.49,10337.98,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,594,0,102,492,144,FALSE,472.93,232682.42,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1023,LED Tube Light 20W,Electrical,pcs,26,275,99,202,103,FALSE,225.1,45469.53,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,25,263,96,192,106,FALSE,1164.27,223540.35,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1025,Extension Board,Electrical,pcs,282,426,220,488,212,FALSE,355.89,173671.9,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1027,Ceiling Fan,Electrical,pcs,395,0,158,237,272,TRUE,1866.88,442450.39,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1029,Modular Switch,Electrical,pcs,106,0,32,74,41,FALSE,42.26,3126.98,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1030,Modular Switch (Bulk),Electrical,pcs,41,248,78,211,79,FALSE,198.32,41845.0,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1032,Copper Wire 90m (Bulk),Electrical,pcs,721,0,200,521,248,FALSE,7971.42,4153109.52,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1034,MCB 32A (Bulk),Electrical,pcs,71,0,20,51,21,FALSE,1095.17,55853.9,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1035,Emergency Light,Electrical,pcs,48,81,47,82,39,FALSE,707.59,58022.09,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1036,Emergency Light (Bulk),Electrical,pcs,58,450,143,365,256,FALSE,2980.78,1087986.21,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1037,Wall Socket,Electrical,pcs,278,0,164,114,204,TRUE,56.83,6478.28,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1038,Wall Socket (Bulk),Electrical,pcs,77,0,49,28,38,TRUE,284.04,7952.99,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1039,Table Lamp,Electrical,pcs,157,0,64,93,118,TRUE,527.07,49017.48,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1040,Table Lamp (Bulk),Electrical,pcs,83,473,131,425,144,FALSE,2524.49,1072909.59,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1041,Basmati Rice,Grocery,kg,152,655,199,608,166,FALSE,99.55,60525.55,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1042,Basmati Rice (Bulk),Grocery,kg,108,0,26,82,37,FALSE,445.62,36540.74,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1043,Toor Dal,Grocery,kg,299,0,75,224,142,FALSE,136.56,30589.85,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1044,Toor Dal (Bulk),Grocery,kg,57,400,71,386,107,FALSE,655.85,253158.56,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1046,Sugar (Bulk),Grocery,kg,55,0,21,34,38,TRUE,201.0,6833.86,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1048,Wheat Atta (Bulk),Grocery,kg,376,0,144,232,134,FALSE,174.01,40369.48,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1049,Sunflower Oil (L),Grocery,kg,112,489,147,454,235,FALSE,144.73,65709.15,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,425,0,202,223,202,FALSE,607.57,135487.66,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1051,Tea Leaves,Grocery,kg,146,60,38,168,41,FALSE,387.2,65050.17,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1052,Tea Leaves (Bulk),Grocery,kg,172,659,172,659,169,FALSE,2041.74,1345503.72,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1053,Salt,Grocery,kg,278,481,227,532,255,FALSE,21.86,11627.99,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1054,Salt (Bulk),Grocery,kg,444,0,168,276,233,FALSE,109.94,30343.97,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1055,Poha,Grocery,kg,167,0,72,95,117,TRUE,61.18,5812.07,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1056,Poha (Bulk),Grocery,kg,59,479,94,444,155,FALSE,278.9,123829.52,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1057,Chana Dal,Grocery,kg,418,0,94,324,161,FALSE,81.82,26510.38,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1059,Jaggery,Grocery,kg,22,46,18,50,19,FALSE,66.13,3306.61,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1060,Jaggery (Bulk),Grocery,kg,489,0,113,376,170,FALSE,292.43,109952.3,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1061,Hammer,Hardware,pcs,129,0,49,80,104,TRUE,242.64,19411.48,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1062,Hammer (Bulk),Hardware,pcs,325,0,194,131,197,TRUE,1290.54,169060.27,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1063,Screwdriver Set,Hardware,pcs,2,38,24,16,17,TRUE,291.94,4671.01,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,345,0,177,168,177,TRUE,1550.75,260525.76,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1065,Wall Plug Pack,Hardware,pcs,20,291,135,176,93,FALSE,48.42,8522.15,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,9,89,33,65,30,FALSE,221.95,14426.6,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1067,Padlock,Hardware,pcs,177,329,179,327,168,FALSE,217.38,71082.91,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1069,Measuring Tape 5m,Hardware,pcs,8,208,89,127,81,FALSE,145.55,18485.27,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,207,0,54,153,60,FALSE,704.78,107832.09,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1071,Spanner Set,Hardware,pcs,240,658,156,742,280,FALSE,642.98,477090.62,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1073,Drill Bit Set,Hardware,pcs,215,0,40,175,172,FALSE,499.46,87405.18,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1075,Wood Screws Pack,Hardware,pcs,131,375,226,280,180,FALSE,65.51,18342.38,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,297,0,82,215,122,FALSE,345.99,74387.65,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1077,Door Hinge,Hardware,pcs,107,195,82,220,99,FALSE,60.1,13222.02,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1078,Door Hinge (Bulk),Hardware,pcs,85,270,112,243,192,FALSE,237.25,57650.74,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1079,Paint Brush,Hardware,pcs,278,0,36,242,61,FALSE,92.67,22426.34,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1080,Paint Brush (Bulk),Hardware,pcs,323,0,174,149,163,TRUE,371.02,55281.43,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1083,Dishwash Liquid 500ml,Cleaning,pcs,100,180,53,227,89,FALSE,102.49,23265.68,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1084,Dishwash Liquid 500ml (Bulk),Cleaning,pcs,65,150,45,170,71,FALSE,445.01,75651.68,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1085,Phenyl 1L,Cleaning,pcs,359,0,85,274,159,FALSE,77.23,21162.05,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,41,0,27,14,26,TRUE,298.95,4185.23,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1087,Broom,Cleaning,pcs,773,463,376,860,249,FALSE,112.56,96798.38,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1088,Broom (Bulk),Cleaning,pcs,54,175,41,188,82,FALSE,540.01,101521.59,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1089,Mop with Bucket,Cleaning,pcs,71,197,95,173,109,FALSE,904.78,156526.3,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1091,Garbage Bags Roll,Cleaning,pcs,300,0,69,231,137,FALSE,94.15,21748.56,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,245,0,124,121,154,TRUE,381.36,46145.06,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1093,Hand Wash 250ml,Cleaning,pcs,65,276,74,267,119,FALSE,70.34,18780.01,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,124,0,62,62,99,TRUE,343.14,21274.64,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1097,Scrub Pad Pack,Cleaning,pcs,28,132,51,109,47,FALSE,42.84,4669.2,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,378,0,99,279,147,FALSE,176.74,49309.94,Lotus Agencies
+2026-03-01,WH-Mumbai,SKU-1099,Dustbin 20L,Cleaning,pcs,264,467,242,489,270,FALSE,340.41,166462.35,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1101,Corrugated Box Small,Packaging,pcs,148,134,47,235,67,FALSE,18.94,4449.78,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,82,254,105,231,165,FALSE,85.69,19795.51,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1103,Corrugated Box Large,Packaging,pcs,44,0,7,37,22,FALSE,46.08,1704.92,Metro Wholesale
+2026-03-01,WH-Mumbai,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,176,321,164,333,202,FALSE,1869.38,622503.73,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1107,Packing Tape,Packaging,pcs,224,0,58,166,80,FALSE,45.11,7488.09,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1108,Packing Tape (Bulk),Packaging,pcs,125,193,64,254,112,FALSE,213.77,54297.36,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1109,Courier Bag Pack,Packaging,pcs,292,286,76,502,130,FALSE,162.42,81534.36,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,15,47,12,50,20,FALSE,807.6,40380.23,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1111,Stretch Film Roll,Packaging,pcs,24,48,18,54,25,FALSE,557.12,30084.61,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,12,644,198,458,176,FALSE,2242.11,1026885.61,Greenleaf Supplies
+2026-03-01,WH-Mumbai,SKU-1113,Kraft Paper Roll,Packaging,pcs,90,0,57,33,63,TRUE,288.77,9529.36,Sunrise Distributors
+2026-03-01,WH-Mumbai,SKU-1114,Kraft Paper Roll (Bulk),Packaging,pcs,119,274,121,272,102,FALSE,1407.23,382765.51,Unity Traders
+2026-03-01,WH-Mumbai,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,203,452,241,414,208,FALSE,1084.01,448779.72,Apex Trading Co.
+2026-03-01,WH-Mumbai,SKU-1117,Thermocol Sheet,Packaging,pcs,745,0,127,618,208,FALSE,32.27,19944.14,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,313,0,79,234,110,FALSE,146.78,34346.21,Northstar Enterprises
+2026-03-01,WH-Mumbai,SKU-1119,Twine Roll,Packaging,pcs,59,121,56,124,57,FALSE,63.8,7911.52,Prime Packaging Works
+2026-03-01,WH-Mumbai,SKU-1120,Twine Roll (Bulk),Packaging,pcs,293,283,150,426,183,FALSE,278.29,118551.44,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1001,A4 Paper Ream,Stationery,pcs,39,0,27,12,22,TRUE,282.84,3394.09,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1002,A4 Paper Ream (Bulk),Stationery,pcs,0,269,137,132,93,FALSE,1311.06,173059.8,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1003,Ball Pen Box,Stationery,pcs,635,0,229,406,238,FALSE,98.36,39935.11,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1004,Ball Pen Box (Bulk),Stationery,pcs,94,168,41,221,117,FALSE,435.24,96187.64,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1005,Stapler,Stationery,pcs,377,0,187,190,173,FALSE,112.34,21345.18,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1006,Stapler (Bulk),Stationery,pcs,260,0,79,181,89,FALSE,596.49,107965.0,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1007,Box File,Stationery,pcs,252,0,73,179,110,FALSE,82.77,14816.25,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1008,Box File (Bulk),Stationery,pcs,339,0,142,197,188,FALSE,315.36,62125.45,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1009,Whiteboard Marker Set,Stationery,pcs,94,327,116,305,145,FALSE,169.25,51620.71,Unity Traders
+2026-03-01,WH-Pune,SKU-1010,Whiteboard Marker Set (Bulk),Stationery,pcs,346,0,231,115,227,TRUE,666.8,76681.95,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1012,Sticky Notes Pack (Bulk),Stationery,pcs,64,222,54,232,106,FALSE,269.44,62510.91,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1013,Notebook 200 pages,Stationery,pcs,199,563,197,565,229,FALSE,56.86,32125.27,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1014,Notebook 200 pages (Bulk),Stationery,pcs,45,107,51,101,40,FALSE,264.92,26756.8,Unity Traders
+2026-03-01,WH-Pune,SKU-1015,Calculator,Stationery,pcs,52,0,33,19,28,TRUE,465.11,8837.09,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1016,Calculator (Bulk),Stationery,pcs,476,0,256,220,170,FALSE,1884.37,414561.49,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1017,Glue Stick,Stationery,pcs,285,0,89,196,82,FALSE,23.24,4554.2,Unity Traders
+2026-03-01,WH-Pune,SKU-1018,Glue Stick (Bulk),Stationery,pcs,54,180,61,173,59,FALSE,112.91,19533.47,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1019,Envelope Pack,Stationery,pcs,59,60,16,103,21,FALSE,81.6,8404.72,Unity Traders
+2026-03-01,WH-Pune,SKU-1020,Envelope Pack (Bulk),Stationery,pcs,71,257,81,247,87,FALSE,363.65,89822.65,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1021,LED Bulb 9W,Electrical,pcs,52,74,19,107,46,FALSE,104.76,11209.76,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1022,LED Bulb 9W (Bulk),Electrical,pcs,156,0,150,6,121,TRUE,407.21,2443.29,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1023,LED Tube Light 20W,Electrical,pcs,183,0,98,85,87,TRUE,239.06,20320.03,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1024,LED Tube Light 20W (Bulk),Electrical,pcs,336,218,84,470,115,FALSE,1055.6,496132.68,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1025,Extension Board,Electrical,pcs,60,150,69,141,81,FALSE,359.01,50620.71,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1026,Extension Board (Bulk),Electrical,pcs,61,125,27,159,37,FALSE,1701.79,270584.76,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1027,Ceiling Fan,Electrical,pcs,146,420,85,481,193,FALSE,1799.89,865746.6,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1028,Ceiling Fan (Bulk),Electrical,pcs,308,598,227,679,255,FALSE,7953.12,5400170.19,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1029,Modular Switch,Electrical,pcs,266,0,102,164,118,FALSE,43.71,7168.49,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1030,Modular Switch (Bulk),Electrical,pcs,726,0,199,527,314,FALSE,216.33,114005.8,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1033,MCB 32A,Electrical,pcs,335,0,94,241,139,FALSE,253.69,61138.12,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1038,Wall Socket (Bulk),Electrical,pcs,426,0,174,252,196,FALSE,281.1,70837.19,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1039,Table Lamp,Electrical,pcs,204,0,171,33,161,TRUE,525.5,17341.6,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1040,Table Lamp (Bulk),Electrical,pcs,335,0,291,44,236,TRUE,2377.34,104602.88,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1041,Basmati Rice,Grocery,kg,97,186,89,194,96,FALSE,101.63,19715.35,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1043,Toor Dal,Grocery,kg,140,0,96,44,113,TRUE,133.82,5888.0,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1044,Toor Dal (Bulk),Grocery,kg,243,0,190,53,195,TRUE,593.75,31468.51,Unity Traders
+2026-03-01,WH-Pune,SKU-1046,Sugar (Bulk),Grocery,kg,227,494,187,534,247,FALSE,204.87,109402.77,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1047,Wheat Atta,Grocery,kg,227,474,205,496,261,FALSE,40.38,20028.36,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1049,Sunflower Oil (L),Grocery,kg,120,298,86,332,126,FALSE,139.74,46392.6,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1050,Sunflower Oil (L) (Bulk),Grocery,kg,42,92,28,106,43,FALSE,604.0,64023.75,Unity Traders
+2026-03-01,WH-Pune,SKU-1051,Tea Leaves,Grocery,kg,244,0,164,80,122,TRUE,436.01,34880.92,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1052,Tea Leaves (Bulk),Grocery,kg,171,0,88,83,128,TRUE,1913.41,158812.95,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1053,Salt,Grocery,kg,15,41,14,42,16,FALSE,22.3,936.5,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1054,Salt (Bulk),Grocery,kg,103,371,64,410,161,FALSE,99.57,40823.12,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1055,Poha,Grocery,kg,167,474,96,545,210,FALSE,58.72,32002.96,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1056,Poha (Bulk),Grocery,kg,55,0,23,32,17,FALSE,303.56,9713.99,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1058,Chana Dal (Bulk),Grocery,kg,99,133,43,189,56,FALSE,401.16,75819.35,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1062,Hammer (Bulk),Hardware,pcs,368,0,80,288,102,FALSE,1192.87,343546.46,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1063,Screwdriver Set,Hardware,pcs,94,316,74,336,134,FALSE,307.29,103247.94,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1064,Screwdriver Set (Bulk),Hardware,pcs,341,507,218,630,159,FALSE,1527.6,962386.32,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1065,Wall Plug Pack,Hardware,pcs,267,413,159,521,140,FALSE,43.2,22509.21,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1066,Wall Plug Pack (Bulk),Hardware,pcs,50,104,32,122,46,FALSE,226.44,27626.03,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1067,Padlock,Hardware,pcs,45,142,51,136,67,FALSE,218.03,29651.5,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1068,Padlock (Bulk),Hardware,pcs,154,0,51,103,84,FALSE,914.71,94214.8,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1069,Measuring Tape 5m,Hardware,pcs,197,0,134,63,146,TRUE,132.48,8346.17,Unity Traders
+2026-03-01,WH-Pune,SKU-1070,Measuring Tape 5m (Bulk),Hardware,pcs,548,0,146,402,231,FALSE,594.34,238924.76,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1071,Spanner Set,Hardware,pcs,101,529,249,381,180,FALSE,651.13,248080.32,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1072,Spanner Set (Bulk),Hardware,pcs,65,192,77,180,96,FALSE,3088.67,555960.28,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1073,Drill Bit Set,Hardware,pcs,502,0,146,356,168,FALSE,465.62,165760.28,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1074,Drill Bit Set (Bulk),Hardware,pcs,296,0,187,109,232,TRUE,2312.85,252100.66,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1075,Wood Screws Pack,Hardware,pcs,187,243,65,365,93,FALSE,65.35,23850.95,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1076,Wood Screws Pack (Bulk),Hardware,pcs,14,129,29,114,39,FALSE,338.06,38538.53,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1077,Door Hinge,Hardware,pcs,432,0,127,305,130,FALSE,53.96,16457.67,Unity Traders
+2026-03-01,WH-Pune,SKU-1078,Door Hinge (Bulk),Hardware,pcs,234,0,51,183,66,FALSE,261.07,47775.28,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1079,Paint Brush,Hardware,pcs,202,742,301,643,261,FALSE,79.44,51081.62,Unity Traders
+2026-03-01,WH-Pune,SKU-1080,Paint Brush (Bulk),Hardware,pcs,275,0,88,187,88,FALSE,383.45,71705.01,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1081,Floor Cleaner 1L,Cleaning,pcs,26,0,18,8,15,TRUE,131.88,1055.06,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1082,Floor Cleaner 1L (Bulk),Cleaning,pcs,154,342,87,409,135,FALSE,548.28,224246.5,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1085,Phenyl 1L,Cleaning,pcs,450,513,197,766,213,FALSE,63.58,48699.16,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1086,Phenyl 1L (Bulk),Cleaning,pcs,125,451,142,434,171,FALSE,327.5,142132.95,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1087,Broom,Cleaning,pcs,72,0,44,28,55,TRUE,116.76,3269.29,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1088,Broom (Bulk),Cleaning,pcs,26,365,102,289,112,FALSE,535.87,154865.02,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1089,Mop with Bucket,Cleaning,pcs,265,0,204,61,194,TRUE,865.53,52797.47,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1090,Mop with Bucket (Bulk),Cleaning,pcs,272,0,95,177,192,TRUE,4042.96,715603.45,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1091,Garbage Bags Roll,Cleaning,pcs,122,409,123,408,245,FALSE,94.34,38488.8,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1092,Garbage Bags Roll (Bulk),Cleaning,pcs,135,0,128,7,111,TRUE,389.87,2729.08,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1094,Hand Wash 250ml (Bulk),Cleaning,pcs,746,470,262,954,293,FALSE,367.55,350646.91,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1095,Glass Cleaner,Cleaning,pcs,162,274,97,339,141,FALSE,102.05,34594.55,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1096,Glass Cleaner (Bulk),Cleaning,pcs,23,98,51,70,43,FALSE,432.1,30247.0,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1097,Scrub Pad Pack,Cleaning,pcs,29,90,29,90,28,FALSE,40.53,3647.36,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1098,Scrub Pad Pack (Bulk),Cleaning,pcs,40,261,85,216,105,FALSE,176.28,38076.81,Lotus Agencies
+2026-03-01,WH-Pune,SKU-1099,Dustbin 20L,Cleaning,pcs,231,564,118,677,284,FALSE,314.54,212943.45,Unity Traders
+2026-03-01,WH-Pune,SKU-1100,Dustbin 20L (Bulk),Cleaning,pcs,399,0,279,120,286,TRUE,1737.94,208552.3,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1101,Corrugated Box Small,Packaging,pcs,772,0,167,605,171,FALSE,17.13,10362.84,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1102,Corrugated Box Small (Bulk),Packaging,pcs,258,550,111,697,221,FALSE,85.95,59904.75,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1103,Corrugated Box Large,Packaging,pcs,295,271,79,487,138,FALSE,41.47,20195.83,Metro Wholesale
+2026-03-01,WH-Pune,SKU-1104,Corrugated Box Large (Bulk),Packaging,pcs,214,0,128,86,133,TRUE,178.99,15393.37,Unity Traders
+2026-03-01,WH-Pune,SKU-1106,Bubble Wrap Roll (Bulk),Packaging,pcs,250,0,136,114,120,TRUE,1721.55,196256.15,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1107,Packing Tape,Packaging,pcs,714,0,187,527,215,FALSE,47.58,25075.77,Unity Traders
+2026-03-01,WH-Pune,SKU-1108,Packing Tape (Bulk),Packaging,pcs,186,527,137,576,216,FALSE,215.86,124334.22,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1110,Courier Bag Pack (Bulk),Packaging,pcs,65,305,74,296,74,FALSE,698.76,206833.89,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1111,Stretch Film Roll,Packaging,pcs,48,212,105,155,97,FALSE,555.27,86067.59,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1112,Stretch Film Roll (Bulk),Packaging,pcs,281,0,66,215,101,FALSE,2413.51,518905.59,Greenleaf Supplies
+2026-03-01,WH-Pune,SKU-1114,Kraft Paper Roll (Bulk),Packaging,pcs,278,0,93,185,109,FALSE,1274.86,235849.49,Unity Traders
+2026-03-01,WH-Pune,SKU-1115,Label Sticker Roll,Packaging,pcs,544,0,200,344,197,FALSE,237.82,81810.53,Sunrise Distributors
+2026-03-01,WH-Pune,SKU-1116,Label Sticker Roll (Bulk),Packaging,pcs,443,0,98,345,84,FALSE,955.0,329474.45,Apex Trading Co.
+2026-03-01,WH-Pune,SKU-1117,Thermocol Sheet,Packaging,pcs,172,0,146,26,139,TRUE,32.99,857.74,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1118,Thermocol Sheet (Bulk),Packaging,pcs,295,0,138,157,204,TRUE,154.08,24189.86,Northstar Enterprises
+2026-03-01,WH-Pune,SKU-1119,Twine Roll,Packaging,pcs,212,0,94,118,130,TRUE,58.94,6954.94,Prime Packaging Works
+2026-03-01,WH-Pune,SKU-1120,Twine Roll (Bulk),Packaging,pcs,249,0,60,189,100,FALSE,284.95,53854.86,Sunrise Distributors
